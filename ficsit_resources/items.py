@@ -1,4 +1,4 @@
-from ficsit_resources.types import Item, Recipe
+from ficsit_resources.types import Item
 
 class Items:
     UraniumWaste = Item("Uranium Waste")

@@ -366,10 +366,10 @@
         "NobeliskDetonator": {
             "in-game-name": "Nobelisk Detonator"
         },
-        "FactoryCart\u2122": {
+        "FactoryCart": {
             "in-game-name": "Factory Cart\u2122"
         },
-        "GoldenFactoryCart\u2122": {
+        "GoldenFactoryCart": {
             "in-game-name": "Golden Factory Cart\u2122"
         },
         "PortableMiner": {
@@ -6269,7 +6269,7 @@
                 }
             ]
         },
-        "FactoryCart\u2122": {
+        "FactoryCart": {
             "in-game-name": "Factory Cart\u2122",
             "inputs": [
                 {
@@ -6287,12 +6287,12 @@
             ],
             "outputs": [
                 {
-                    "item": "FactoryCart\u2122",
+                    "item": "FactoryCart",
                     "rate": 3.0
                 }
             ]
         },
-        "GoldenFactoryCart\u2122": {
+        "GoldenFactoryCart": {
             "in-game-name": "Golden Factory Cart\u2122",
             "inputs": [
                 {
@@ -6310,7 +6310,7 @@
             ],
             "outputs": [
                 {
-                    "item": "GoldenFactoryCart\u2122",
+                    "item": "GoldenFactoryCart",
                     "rate": 3.0
                 }
             ]

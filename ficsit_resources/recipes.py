@@ -1,4 +1,4 @@
-from ficsit_resources.types import Item, Recipe, Rate
+from ficsit_resources.types import Recipe, Rate
 from ficsit_resources.items import Items
 
 class Recipes:
@@ -12,10 +12,15 @@ class Recipes:
         [(Items.IronIngot, Rate(15.0))],
         [(Items.IronRod, Rate(15.0))],
     )
-    IronAlloyIngot = Recipe(
-        "Alternate: Iron Alloy Ingot",
-        [(Items.IronOre, Rate(40.0)), (Items.CopperOre, Rate(10.0))],
-        [(Items.IronIngot, Rate(75.0))],
+    XenoZapper = Recipe(
+        "Xeno-Zapper",
+        [(Items.IronRod, Rate(15.0)), (Items.ReinforcedIronPlate, Rate(3.0)), (Items.Cable, Rate(22.5)), (Items.Wire, Rate(75.0))],
+        [(Items.XenoZapper, Rate(1.5))],
+    )
+    IronIngot = Recipe(
+        "Iron Ingot",
+        [(Items.IronOre, Rate(30.0))],
+        [(Items.IronIngot, Rate(30.0))],
     )
     NitroRocketFuel = Recipe(
         "Alternate: Nitro Rocket Fuel",
@@ -102,7 +107,7 @@ class Recipes:
         [(Items.FicsiteIngot, Rate(10.0))],
         [(Items.FicsiteTrigon, Rate(30.0))],
     )
-    FicsiteIngotIron = Recipe(
+    FicsiteIngotFromIron = Recipe(
         "Ficsite Ingot (Iron)",
         [(Items.ReanimatedSAM, Rate(40.0)), (Items.IronIngot, Rate(240.0))],
         [(Items.FicsiteIngot, Rate(10.0))],
@@ -127,97 +132,97 @@ class Recipes:
         [(Items.AssemblyDirectorSystem, Rate(0.5)), (Items.FicsiteTrigon, Rate(40.0)), (Items.Water, Rate(10.0))],
         [(Items.BiochemicalSculptor, Rate(2.0))],
     )
-    FicsiteIngotAluminum = Recipe(
+    FicsiteIngotFromAluminum = Recipe(
         "Ficsite Ingot (Aluminum)",
         [(Items.ReanimatedSAM, Rate(60.0)), (Items.AluminumIngot, Rate(120.0))],
         [(Items.FicsiteIngot, Rate(30.0))],
     )
-    FicsiteIngotCaterium = Recipe(
+    FicsiteIngotFromCaterium = Recipe(
         "Ficsite Ingot (Caterium)",
         [(Items.ReanimatedSAM, Rate(45.0)), (Items.CateriumIngot, Rate(60.0))],
         [(Items.FicsiteIngot, Rate(15.0))],
     )
-    BauxiteCaterium = Recipe(
+    BauxiteFromCaterium = Recipe(
         "Bauxite (Caterium)",
         [(Items.ReanimatedSAM, Rate(10.0)), (Items.CateriumOre, Rate(150.0))],
         [(Items.Bauxite, Rate(120.0))],
     )
-    BauxiteCopper = Recipe(
+    BauxiteFromCopper = Recipe(
         "Bauxite (Copper)",
         [(Items.ReanimatedSAM, Rate(10.0)), (Items.CopperOre, Rate(180.0))],
         [(Items.Bauxite, Rate(120.0))],
     )
-    CateriumOreCopper = Recipe(
+    CateriumOreFromCopper = Recipe(
         "Caterium Ore (Copper)",
         [(Items.ReanimatedSAM, Rate(10.0)), (Items.CopperOre, Rate(150.0))],
         [(Items.CateriumOre, Rate(120.0))],
     )
-    CateriumOreQuartz = Recipe(
+    CateriumOreFromQuartz = Recipe(
         "Caterium Ore (Quartz)",
         [(Items.ReanimatedSAM, Rate(10.0)), (Items.RawQuartz, Rate(120.0))],
         [(Items.CateriumOre, Rate(120.0))],
     )
-    CoalIron = Recipe(
+    CoalFromIron = Recipe(
         "Coal (Iron)",
         [(Items.ReanimatedSAM, Rate(10.0)), (Items.IronOre, Rate(180.0))],
         [(Items.Coal, Rate(120.0))],
     )
-    CoalLimestone = Recipe(
+    CoalFromLimestone = Recipe(
         "Coal (Limestone)",
         [(Items.ReanimatedSAM, Rate(10.0)), (Items.Limestone, Rate(360.0))],
         [(Items.Coal, Rate(120.0))],
     )
-    CopperOreQuartz = Recipe(
+    CopperOreFromQuartz = Recipe(
         "Copper Ore (Quartz)",
         [(Items.ReanimatedSAM, Rate(10.0)), (Items.RawQuartz, Rate(100.0))],
         [(Items.CopperOre, Rate(120.0))],
     )
-    CopperOreSulfur = Recipe(
+    CopperOreFromSulfur = Recipe(
         "Copper Ore (Sulfur)",
         [(Items.ReanimatedSAM, Rate(10.0)), (Items.Sulfur, Rate(120.0))],
         [(Items.CopperOre, Rate(120.0))],
     )
-    IronOreLimestone = Recipe(
+    IronOreFromLimestone = Recipe(
         "Iron Ore (Limestone)",
         [(Items.ReanimatedSAM, Rate(10.0)), (Items.Limestone, Rate(240.0))],
         [(Items.IronOre, Rate(120.0))],
     )
-    LimestoneSulfur = Recipe(
+    LimestoneFromSulfur = Recipe(
         "Limestone (Sulfur)",
         [(Items.ReanimatedSAM, Rate(10.0)), (Items.Sulfur, Rate(20.0))],
         [(Items.Limestone, Rate(120.0))],
     )
-    NitrogenGasBauxite = Recipe(
+    NitrogenGasFromBauxite = Recipe(
         "Nitrogen Gas (Bauxite)",
         [(Items.ReanimatedSAM, Rate(10.0)), (Items.Bauxite, Rate(100.0))],
         [(Items.NitrogenGas, Rate(120.0))],
     )
-    NitrogenGasCaterium = Recipe(
+    NitrogenGasFromCaterium = Recipe(
         "Nitrogen Gas (Caterium)",
         [(Items.ReanimatedSAM, Rate(10.0)), (Items.CateriumOre, Rate(120.0))],
         [(Items.NitrogenGas, Rate(120.0))],
     )
-    RawQuartzBauxite = Recipe(
+    RawQuartzFromBauxite = Recipe(
         "Raw Quartz (Bauxite)",
         [(Items.ReanimatedSAM, Rate(10.0)), (Items.Bauxite, Rate(100.0))],
         [(Items.RawQuartz, Rate(120.0))],
     )
-    RawQuartzCoal = Recipe(
+    RawQuartzFromCoal = Recipe(
         "Raw Quartz (Coal)",
         [(Items.ReanimatedSAM, Rate(10.0)), (Items.Coal, Rate(240.0))],
         [(Items.RawQuartz, Rate(120.0))],
     )
-    SulfurCoal = Recipe(
+    SulfurFromCoal = Recipe(
         "Sulfur (Coal)",
         [(Items.ReanimatedSAM, Rate(10.0)), (Items.Coal, Rate(200.0))],
         [(Items.Sulfur, Rate(120.0))],
     )
-    SulfurIron = Recipe(
+    SulfurFromIron = Recipe(
         "Sulfur (Iron)",
         [(Items.ReanimatedSAM, Rate(10.0)), (Items.IronOre, Rate(300.0))],
         [(Items.Sulfur, Rate(120.0))],
     )
-    UraniumOreBauxite = Recipe(
+    UraniumOreFromBauxite = Recipe(
         "Uranium Ore (Bauxite)",
         [(Items.ReanimatedSAM, Rate(10.0)), (Items.Bauxite, Rate(480.0))],
         [(Items.Uranium, Rate(120.0))],
@@ -497,15 +502,15 @@ class Recipes:
         [(Items.AluminumScrap, Rate(90.0)), (Items.Silica, Rate(75.0))],
         [(Items.AluminumIngot, Rate(60.0))],
     )
-    CheapSilica = Recipe(
-        "Alternate: Cheap Silica",
-        [(Items.RawQuartz, Rate(22.5)), (Items.Limestone, Rate(37.5))],
-        [(Items.Silica, Rate(52.5))],
+    Silica = Recipe(
+        "Silica",
+        [(Items.RawQuartz, Rate(22.5))],
+        [(Items.Silica, Rate(37.5))],
     )
-    InsulatedCrystalOscillator = Recipe(
-        "Alternate: Insulated Crystal Oscillator",
-        [(Items.QuartzCrystal, Rate(18.75)), (Items.Rubber, Rate(13.125)), (Items.AILimiter, Rate(1.875))],
-        [(Items.CrystalOscillator, Rate(1.875))],
+    CrystalOscillator = Recipe(
+        "Crystal Oscillator",
+        [(Items.QuartzCrystal, Rate(18.0)), (Items.Cable, Rate(14.0)), (Items.ReinforcedIronPlate, Rate(2.5))],
+        [(Items.CrystalOscillator, Rate(1.0))],
     )
     UnpackageAluminaSolution = Recipe(
         "Unpackage Alumina Solution",
@@ -527,20 +532,20 @@ class Recipes:
         [(Items.Stator, Rate(3.75)), (Items.Wire, Rate(75.0)), (Items.HighSpeedConnector, Rate(1.875))],
         [(Items.AutomatedWiring, Rate(7.5))],
     )
-    EncasedIndustrialPipe = Recipe(
-        "Alternate: Encased Industrial Pipe",
-        [(Items.SteelPipe, Rate(24.0)), (Items.Concrete, Rate(20.0))],
-        [(Items.EncasedIndustrialBeam, Rate(4.0))],
+    EncasedIndustrialBeam = Recipe(
+        "Encased Industrial Beam",
+        [(Items.SteelBeam, Rate(18.0)), (Items.Concrete, Rate(36.0))],
+        [(Items.EncasedIndustrialBeam, Rate(6.0))],
     )
     Motor = Recipe(
         "Motor",
         [(Items.Rotor, Rate(10.0)), (Items.Stator, Rate(10.0))],
         [(Items.Motor, Rate(5.0))],
     )
-    QuickwireStator = Recipe(
-        "Alternate: Quickwire Stator",
-        [(Items.SteelPipe, Rate(16.0)), (Items.Quickwire, Rate(60.0))],
-        [(Items.Stator, Rate(8.0))],
+    Stator = Recipe(
+        "Stator",
+        [(Items.SteelPipe, Rate(15.0)), (Items.Wire, Rate(40.0))],
+        [(Items.Stator, Rate(5.0))],
     )
     AutomatedWiring = Recipe(
         "Automated Wiring",
@@ -567,10 +572,10 @@ class Recipes:
         [(Items.CircuitBoard, Rate(10.0)), (Items.Cable, Rate(20.0)), (Items.Plastic, Rate(40.0))],
         [(Items.Computer, Rate(2.5))],
     )
-    HeavyEncasedFrame = Recipe(
-        "Alternate: Heavy Encased Frame",
-        [(Items.ModularFrame, Rate(7.5)), (Items.EncasedIndustrialBeam, Rate(9.375)), (Items.SteelPipe, Rate(33.75)), (Items.Concrete, Rate(20.625))],
-        [(Items.HeavyModularFrame, Rate(2.8125))],
+    HeavyModularFrame = Recipe(
+        "Heavy Modular Frame",
+        [(Items.ModularFrame, Rate(10.0)), (Items.SteelPipe, Rate(40.0)), (Items.EncasedIndustrialBeam, Rate(10.0)), (Items.Screw, Rate(240.0))],
+        [(Items.HeavyModularFrame, Rate(2.0))],
     )
     ModularEngine = Recipe(
         "Modular Engine",
@@ -612,15 +617,15 @@ class Recipes:
         [(Items.CopperSheet, Rate(22.5)), (Items.Screw, Rate(195.0))],
         [(Items.Rotor, Rate(11.25))],
     )
-    SteeledFrame = Recipe(
-        "Alternate: Steeled Frame",
-        [(Items.ReinforcedIronPlate, Rate(2.0)), (Items.SteelPipe, Rate(10.0))],
-        [(Items.ModularFrame, Rate(3.0))],
+    ModularFrame = Recipe(
+        "Modular Frame",
+        [(Items.ReinforcedIronPlate, Rate(3.0)), (Items.IronRod, Rate(12.0))],
+        [(Items.ModularFrame, Rate(2.0))],
     )
-    SteelRotor = Recipe(
-        "Alternate: Steel Rotor",
-        [(Items.SteelPipe, Rate(10.0)), (Items.Wire, Rate(30.0))],
-        [(Items.Rotor, Rate(5.0))],
+    Rotor = Recipe(
+        "Rotor",
+        [(Items.IronRod, Rate(20.0)), (Items.Screw, Rate(100.0))],
+        [(Items.Rotor, Rate(4.0))],
     )
     CopperSheet = Recipe(
         "Copper Sheet",
@@ -767,10 +772,10 @@ class Recipes:
         [(Items.AdaptiveControlUnit, Rate(1.5)), (Items.Supercomputer, Rate(0.75))],
         [(Items.AssemblyDirectorSystem, Rate(0.75))],
     )
-    SiliconHighSpeedConnector = Recipe(
-        "Alternate: Silicon High-Speed Connector",
-        [(Items.Quickwire, Rate(90.0)), (Items.Silica, Rate(37.5)), (Items.CircuitBoard, Rate(3.0))],
-        [(Items.HighSpeedConnector, Rate(3.0))],
+    HighSpeedConnector = Recipe(
+        "High-Speed Connector",
+        [(Items.Quickwire, Rate(210.0)), (Items.Cable, Rate(37.5)), (Items.CircuitBoard, Rate(3.75))],
+        [(Items.HighSpeedConnector, Rate(3.75))],
     )
     UnpackageSulfuricAcid = Recipe(
         "Unpackage Sulfuric Acid",
@@ -1007,15 +1012,35 @@ class Recipes:
         [(Items.ModularEngine, Rate(2.5)), (Items.TurboMotor, Rate(1.0)), (Items.CoolingSystem, Rate(3.0)), (Items.FusedModularFrame, Rate(1.0))],
         [(Items.ThermalPropulsionRocket, Rate(1.0))],
     )
+    QuickwireStator = Recipe(
+        "Alternate: Quickwire Stator",
+        [(Items.SteelPipe, Rate(16.0)), (Items.Quickwire, Rate(60.0))],
+        [(Items.Stator, Rate(8.0))],
+    )
+    CheapSilica = Recipe(
+        "Alternate: Cheap Silica",
+        [(Items.RawQuartz, Rate(22.5)), (Items.Limestone, Rate(37.5))],
+        [(Items.Silica, Rate(52.5))],
+    )
     SteelScrew = Recipe(
         "Alternate: Steel Screw",
         [(Items.SteelBeam, Rate(5.0))],
         [(Items.Screw, Rate(260.0))],
     )
-    Screw = Recipe(
-        "Screw",
-        [(Items.IronRod, Rate(10.0))],
-        [(Items.Screw, Rate(40.0))],
+    CastScrew = Recipe(
+        "Alternate: Cast Screw",
+        [(Items.IronIngot, Rate(12.5))],
+        [(Items.Screw, Rate(50.0))],
+    )
+    SteelRotor = Recipe(
+        "Alternate: Steel Rotor",
+        [(Items.SteelPipe, Rate(10.0)), (Items.Wire, Rate(30.0))],
+        [(Items.Rotor, Rate(5.0))],
+    )
+    EncasedIndustrialPipe = Recipe(
+        "Alternate: Encased Industrial Pipe",
+        [(Items.SteelPipe, Rate(24.0)), (Items.Concrete, Rate(20.0))],
+        [(Items.EncasedIndustrialBeam, Rate(4.0))],
     )
     StitchedIronPlate = Recipe(
         "Alternate: Stitched Iron Plate",
@@ -1032,10 +1057,10 @@ class Recipes:
         [(Items.HeatSink, Rate(15.0)), (Items.HighSpeedConnector, Rate(7.5)), (Items.QuartzCrystal, Rate(45.0))],
         [(Items.RadioControlUnit, Rate(3.75))],
     )
-    Quickwire = Recipe(
-        "Quickwire",
-        [(Items.CateriumIngot, Rate(12.0))],
-        [(Items.Quickwire, Rate(60.0))],
+    FusedQuickwire = Recipe(
+        "Alternate: Fused Quickwire",
+        [(Items.CateriumIngot, Rate(7.5)), (Items.CopperIngot, Rate(37.5))],
+        [(Items.Quickwire, Rate(90.0))],
     )
     RecycledPlastic = Recipe(
         "Alternate: Recycled Plastic",
@@ -1052,6 +1077,11 @@ class Recipes:
         [(Items.Rotor, Rate(3.75)), (Items.Stator, Rate(3.75)), (Items.CrystalOscillator, Rate(1.25))],
         [(Items.Motor, Rate(7.5))],
     )
+    SteeledFrame = Recipe(
+        "Alternate: Steeled Frame",
+        [(Items.ReinforcedIronPlate, Rate(2.0)), (Items.SteelPipe, Rate(10.0))],
+        [(Items.ModularFrame, Rate(3.0))],
+    )
     CompactedSteelIngot = Recipe(
         "Alternate: Compacted Steel Ingot",
         [(Items.IronOre, Rate(5.0)), (Items.CompactedCoal, Rate(2.5))],
@@ -1061,6 +1091,21 @@ class Recipes:
         "Alternate: Solid Steel Ingot",
         [(Items.IronIngot, Rate(40.0)), (Items.Coal, Rate(40.0))],
         [(Items.SteelIngot, Rate(60.0))],
+    )
+    IronAlloyIngot = Recipe(
+        "Alternate: Iron Alloy Ingot",
+        [(Items.IronOre, Rate(40.0)), (Items.CopperOre, Rate(10.0))],
+        [(Items.IronIngot, Rate(75.0))],
+    )
+    SiliconHighSpeedConnector = Recipe(
+        "Alternate: Silicon High-Speed Connector",
+        [(Items.Quickwire, Rate(90.0)), (Items.Silica, Rate(37.5)), (Items.CircuitBoard, Rate(3.0))],
+        [(Items.HighSpeedConnector, Rate(3.0))],
+    )
+    HeavyEncasedFrame = Recipe(
+        "Alternate: Heavy Encased Frame",
+        [(Items.ModularFrame, Rate(7.5)), (Items.EncasedIndustrialBeam, Rate(9.375)), (Items.SteelPipe, Rate(33.75)), (Items.Concrete, Rate(20.625))],
+        [(Items.HeavyModularFrame, Rate(2.8125))],
     )
     HeatExchanger = Recipe(
         "Alternate: Heat Exchanger",
@@ -1077,10 +1122,15 @@ class Recipes:
         [(Items.Stator, Rate(8.0)), (Items.HighSpeedConnector, Rate(4.0))],
         [(Items.ElectromagneticControlRod, Rate(8.0))],
     )
-    Concrete = Recipe(
-        "Concrete",
-        [(Items.Limestone, Rate(45.0))],
-        [(Items.Concrete, Rate(15.0))],
+    InsulatedCrystalOscillator = Recipe(
+        "Alternate: Insulated Crystal Oscillator",
+        [(Items.QuartzCrystal, Rate(18.75)), (Items.Rubber, Rate(13.125)), (Items.AILimiter, Rate(1.875))],
+        [(Items.CrystalOscillator, Rate(1.875))],
+    )
+    FineConcrete = Recipe(
+        "Alternate: Fine Concrete",
+        [(Items.Silica, Rate(15.0)), (Items.Limestone, Rate(60.0))],
+        [(Items.Concrete, Rate(50.0))],
     )
     CrystalComputer = Recipe(
         "Alternate: Crystal Computer",
@@ -1132,10 +1182,45 @@ class Recipes:
         [(Items.ThermalPropulsionRocket, Rate(1.0)), (Items.SingularityCell, Rate(5.0)), (Items.SuperpositionOscillator, Rate(2.0)), (Items.DarkMatterCrystal, Rate(40.0))],
         [(Items.BallisticWarpDrive, Rate(1.0))],
     )
+    Hoverpack = Recipe(
+        "Hoverpack",
+        [(Items.Motor, Rate(4.0)), (Items.HeavyModularFrame, Rate(2.0)), (Items.Computer, Rate(4.0)), (Items.AlcladAluminumSheet, Rate(20.0))],
+        [(Items.Hoverpack, Rate(0.5))],
+    )
+    IodineInfusedFilter = Recipe(
+        "Iodine-Infused Filter",
+        [(Items.GasFilter, Rate(3.75)), (Items.Quickwire, Rate(30.0)), (Items.AluminumCasing, Rate(3.75))],
+        [(Items.IodineInfusedFilter, Rate(3.75))],
+    )
+    HazmatSuit = Recipe(
+        "Hazmat Suit",
+        [(Items.Rubber, Rate(25.0)), (Items.Plastic, Rate(25.0)), (Items.AlcladAluminumSheet, Rate(25.0)), (Items.Fabric, Rate(25.0))],
+        [(Items.HazmatSuit, Rate(0.5))],
+    )
+    Jetpack = Recipe(
+        "Jetpack",
+        [(Items.Motor, Rate(5.0)), (Items.SteelPipe, Rate(10.0)), (Items.IronPlate, Rate(25.0)), (Items.Wire, Rate(50.0))],
+        [(Items.Jetpack, Rate(1.0))],
+    )
+    Quickwire = Recipe(
+        "Quickwire",
+        [(Items.CateriumIngot, Rate(12.0))],
+        [(Items.Quickwire, Rate(60.0))],
+    )
+    XenoBasher = Recipe(
+        "Xeno-Basher",
+        [(Items.XenoZapper, Rate(1.5)), (Items.ModularFrame, Rate(3.75)), (Items.IronRod, Rate(18.75)), (Items.Wire, Rate(375.0))],
+        [(Items.XenoBasher, Rate(0.75))],
+    )
     SolidBiofuel = Recipe(
         "Solid Biofuel",
         [(Items.Biomass, Rate(120.0))],
         [(Items.SolidBiofuel, Rate(60.0))],
+    )
+    Chainsaw = Recipe(
+        "Chainsaw",
+        [(Items.ReinforcedIronPlate, Rate(5.0)), (Items.IronRod, Rate(25.0)), (Items.Screw, Rate(160.0)), (Items.Cable, Rate(15.0))],
+        [(Items.Chainsaw, Rate(1.0))],
     )
     HogProtein = Recipe(
         "Hog Protein",
@@ -1147,20 +1232,30 @@ class Recipes:
         [(Items.SpitterRemains, Rate(20.0))],
         [(Items.AlienProtein, Rate(20.0))],
     )
-    BiomassMycelia = Recipe(
+    BiomassFromMycelia = Recipe(
         "Biomass (Mycelia)",
         [(Items.Mycelia, Rate(15.0))],
         [(Items.Biomass, Rate(150.0))],
     )
-    PowerShard1 = Recipe(
+    PowerShardFrom1 = Recipe(
         "Power Shard (1)",
         [(Items.BluePowerSlug, Rate(7.5))],
         [(Items.PowerShard, Rate(7.5))],
+    )
+    BlackPowder = Recipe(
+        "Black Powder",
+        [(Items.Coal, Rate(15.0)), (Items.Sulfur, Rate(15.0))],
+        [(Items.BlackPowder, Rate(30.0))],
     )
     AlienPowerMatrix = Recipe(
         "Alien Power Matrix",
         [(Items.SAMFluctuator, Rate(12.5)), (Items.PowerShard, Rate(7.5)), (Items.SuperpositionOscillator, Rate(7.5)), (Items.ExcitedPhotonicMatter, Rate(60.0))],
         [(Items.AlienPowerMatrix, Rate(2.5)), (Items.DarkMatterResidue, Rate(60.0))],
+    )
+    ObjectScanner = Recipe(
+        "Object Scanner",
+        [(Items.ReinforcedIronPlate, Rate(6.0)), (Items.Wire, Rate(30.0)), (Items.Screw, Rate(75.0))],
+        [(Items.ObjectScanner, Rate(1.5))],
     )
     StingerProtein = Recipe(
         "Stinger Protein",
@@ -1177,10 +1272,75 @@ class Recipes:
         [(Items.AlienProtein, Rate(10.0))],
         [(Items.AlienDNACapsule, Rate(10.0))],
     )
-    BiomassAlienProtein = Recipe(
+    BiomassFromAlienProtein = Recipe(
         "Biomass (Alien Protein)",
         [(Items.AlienProtein, Rate(15.0))],
         [(Items.Biomass, Rate(1500.0))],
+    )
+    ProteinInhaler = Recipe(
+        "Protein Inhaler",
+        [(Items.AlienProtein, Rate(3.0)), (Items.BerylNut, Rate(30.0))],
+        [(Items.MedicinalInhaler, Rate(3.0))],
+    )
+    IronRebar = Recipe(
+        "Iron Rebar",
+        [(Items.IronRod, Rate(15.0))],
+        [(Items.IronRebar, Rate(15.0))],
+    )
+    RebarGun = Recipe(
+        "Rebar Gun",
+        [(Items.ReinforcedIronPlate, Rate(6.0)), (Items.IronRod, Rate(16.0)), (Items.Screw, Rate(100.0))],
+        [(Items.RebarGun, Rate(1.0))],
+    )
+    HomingRifleAmmo = Recipe(
+        "Homing Rifle Ammo",
+        [(Items.RifleAmmo, Rate(50.0)), (Items.HighSpeedConnector, Rate(2.5))],
+        [(Items.HomingRifleAmmo, Rate(25.0))],
+    )
+    BladeRunners = Recipe(
+        "Blade Runners",
+        [(Items.Silica, Rate(20.0)), (Items.ModularFrame, Rate(3.0)), (Items.Rotor, Rate(3.0))],
+        [(Items.BladeRunners, Rate(1.0))],
+    )
+    StunRebar = Recipe(
+        "Stun Rebar",
+        [(Items.IronRebar, Rate(10.0)), (Items.Quickwire, Rate(50.0))],
+        [(Items.StunRebar, Rate(10.0))],
+    )
+    Zipline = Recipe(
+        "Zipline",
+        [(Items.XenoZapper, Rate(1.5)), (Items.Quickwire, Rate(45.0)), (Items.IronRod, Rate(4.5)), (Items.Cable, Rate(15.0))],
+        [(Items.Zipline, Rate(1.5))],
+    )
+    GasFilter = Recipe(
+        "Gas Filter",
+        [(Items.Fabric, Rate(15.0)), (Items.Coal, Rate(30.0)), (Items.IronPlate, Rate(15.0))],
+        [(Items.GasFilter, Rate(7.5))],
+    )
+    GasMask = Recipe(
+        "Gas Mask",
+        [(Items.Fabric, Rate(50.0)), (Items.CopperSheet, Rate(10.0)), (Items.SteelPipe, Rate(10.0))],
+        [(Items.GasMask, Rate(1.0))],
+    )
+    GasNobelisk = Recipe(
+        "Gas Nobelisk",
+        [(Items.Nobelisk, Rate(5.0)), (Items.Biomass, Rate(50.0))],
+        [(Items.GasNobelisk, Rate(5.0))],
+    )
+    TherapeuticInhaler = Recipe(
+        "Therapeutic Inhaler",
+        [(Items.Mycelia, Rate(45.0)), (Items.AlienProtein, Rate(3.0)), (Items.BaconAgaric, Rate(3.0))],
+        [(Items.MedicinalInhaler, Rate(3.0))],
+    )
+    VitaminInhaler = Recipe(
+        "Vitamin Inhaler",
+        [(Items.Mycelia, Rate(30.0)), (Items.Paleberry, Rate(15.0))],
+        [(Items.MedicinalInhaler, Rate(3.0))],
+    )
+    Parachute = Recipe(
+        "Parachute",
+        [(Items.Fabric, Rate(30.0)), (Items.Cable, Rate(15.0))],
+        [(Items.Parachute, Rate(1.5))],
     )
     PolyesterFabric = Recipe(
         "Alternate: Polyester Fabric",
@@ -1192,37 +1352,97 @@ class Recipes:
         [(Items.Mycelia, Rate(15.0)), (Items.Biomass, Rate(75.0))],
         [(Items.Fabric, Rate(15.0))],
     )
+    NutritionalInhaler = Recipe(
+        "Nutritional Inhaler",
+        [(Items.BaconAgaric, Rate(3.0)), (Items.Paleberry, Rate(6.0)), (Items.BerylNut, Rate(15.0))],
+        [(Items.MedicinalInhaler, Rate(3.0))],
+    )
     SyntheticPowerShard = Recipe(
         "Synthetic Power Shard",
         [(Items.TimeCrystal, Rate(10.0)), (Items.DarkMatterCrystal, Rate(10.0)), (Items.QuartzCrystal, Rate(60.0)), (Items.ExcitedPhotonicMatter, Rate(60.0))],
         [(Items.PowerShard, Rate(5.0)), (Items.DarkMatterResidue, Rate(60.0))],
     )
-    PowerShard5 = Recipe(
+    PowerShardFrom5 = Recipe(
         "Power Shard (5)",
         [(Items.PurplePowerSlug, Rate(2.5))],
         [(Items.PowerShard, Rate(12.5))],
     )
-    PowerShard2 = Recipe(
+    PowerShardFrom2 = Recipe(
         "Power Shard (2)",
         [(Items.YellowPowerSlug, Rate(5.0))],
         [(Items.PowerShard, Rate(10.0))],
+    )
+    PulseNobelisk = Recipe(
+        "Pulse Nobelisk",
+        [(Items.Nobelisk, Rate(5.0)), (Items.CrystalOscillator, Rate(1.0))],
+        [(Items.PulseNobelisk, Rate(5.0))],
+    )
+    ShatterRebar = Recipe(
+        "Shatter Rebar",
+        [(Items.IronRebar, Rate(10.0)), (Items.QuartzCrystal, Rate(15.0))],
+        [(Items.ShatterRebar, Rate(5.0))],
     )
     TurboRifleAmmo = Recipe(
         "Turbo Rifle Ammo",
         [(Items.RifleAmmo, Rate(125.0)), (Items.AluminumCasing, Rate(15.0)), (Items.Turbofuel, Rate(15.0))],
         [(Items.TurboRifleAmmo, Rate(250.0))],
     )
+    NukeNobelisk = Recipe(
+        "Nuke Nobelisk",
+        [(Items.Nobelisk, Rate(2.5)), (Items.EncasedUraniumCell, Rate(10.0)), (Items.SmokelessPowder, Rate(5.0)), (Items.AILimiter, Rate(3.0))],
+        [(Items.NukeNobelisk, Rate(0.5))],
+    )
+    RifleAmmo = Recipe(
+        "Rifle Ammo",
+        [(Items.CopperSheet, Rate(15.0)), (Items.SmokelessPowder, Rate(10.0))],
+        [(Items.RifleAmmo, Rate(75.0))],
+    )
+    ExplosiveRebar = Recipe(
+        "Explosive Rebar",
+        [(Items.IronRebar, Rate(10.0)), (Items.SmokelessPowder, Rate(10.0)), (Items.SteelPipe, Rate(10.0))],
+        [(Items.ExplosiveRebar, Rate(5.0))],
+    )
+    Rifle = Recipe(
+        "Rifle",
+        [(Items.Motor, Rate(1.0)), (Items.Rubber, Rate(5.0)), (Items.SteelPipe, Rate(12.5)), (Items.Screw, Rate(125.0))],
+        [(Items.Rifle, Rate(0.5))],
+    )
+    ClusterNobelisk = Recipe(
+        "Cluster Nobelisk",
+        [(Items.Nobelisk, Rate(7.5)), (Items.SmokelessPowder, Rate(10.0))],
+        [(Items.ClusterNobelisk, Rate(2.5))],
+    )
+    Nobelisk = Recipe(
+        "Nobelisk",
+        [(Items.BlackPowder, Rate(20.0)), (Items.SteelPipe, Rate(20.0))],
+        [(Items.Nobelisk, Rate(10.0))],
+    )
+    NobeliskDetonator = Recipe(
+        "Nobelisk Detonator",
+        [(Items.ObjectScanner, Rate(0.75)), (Items.SteelBeam, Rate(7.5)), (Items.Cable, Rate(37.5))],
+        [(Items.NobeliskDetonator, Rate(0.75))],
+    )
     SmokelessPowder = Recipe(
         "Smokeless Powder",
         [(Items.BlackPowder, Rate(20.0)), (Items.HeavyOilResidue, Rate(10.0))],
         [(Items.SmokelessPowder, Rate(20.0))],
     )
-    BiomassLeaves = Recipe(
+    FactoryCart = Recipe(
+        "Factory Cart™",
+        [(Items.ReinforcedIronPlate, Rate(12.0)), (Items.IronRod, Rate(12.0)), (Items.Rotor, Rate(6.0))],
+        [(Items.FactoryCart, Rate(3.0))],
+    )
+    GoldenFactoryCart = Recipe(
+        "Golden Factory Cart™",
+        [(Items.CateriumIngot, Rate(45.0)), (Items.IronRod, Rate(12.0)), (Items.Rotor, Rate(6.0))],
+        [(Items.GoldenFactoryCart, Rate(3.0))],
+    )
+    BiomassFromLeaves = Recipe(
         "Biomass (Leaves)",
         [(Items.Leaves, Rate(120.0))],
         [(Items.Biomass, Rate(60.0))],
     )
-    BiomassWood = Recipe(
+    BiomassFromWood = Recipe(
         "Biomass (Wood)",
         [(Items.Wood, Rate(60.0))],
         [(Items.Biomass, Rate(300.0))],
@@ -1231,6 +1451,16 @@ class Recipes:
         "Reinforced Iron Plate",
         [(Items.IronPlate, Rate(30.0)), (Items.Screw, Rate(60.0))],
         [(Items.ReinforcedIronPlate, Rate(5.0))],
+    )
+    Concrete = Recipe(
+        "Concrete",
+        [(Items.Limestone, Rate(45.0))],
+        [(Items.Concrete, Rate(15.0))],
+    )
+    Screw = Recipe(
+        "Screw",
+        [(Items.IronRod, Rate(10.0))],
+        [(Items.Screw, Rate(40.0))],
     )
     Cable = Recipe(
         "Cable",
@@ -1246,4 +1476,9 @@ class Recipes:
         "Copper Ingot",
         [(Items.CopperOre, Rate(30.0))],
         [(Items.CopperIngot, Rate(30.0))],
+    )
+    PortableMiner = Recipe(
+        "Portable Miner",
+        [(Items.IronPlate, Rate(3.0)), (Items.IronRod, Rate(6.0))],
+        [(Items.PortableMiner, Rate(1.5))],
     )
