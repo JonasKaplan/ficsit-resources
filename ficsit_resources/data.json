@@ -1,0 +1,6462 @@
+{
+    "items": {
+        "UraniumWaste": {
+            "in-game-name": "Uranium Waste"
+        },
+        "PlutoniumWaste": {
+            "in-game-name": "Plutonium Waste"
+        },
+        "Concrete": {
+            "in-game-name": "Concrete"
+        },
+        "Silica": {
+            "in-game-name": "Silica"
+        },
+        "IronPlate": {
+            "in-game-name": "Iron Plate"
+        },
+        "SteelBeam": {
+            "in-game-name": "Steel Beam"
+        },
+        "AluminumIngot": {
+            "in-game-name": "Aluminum Ingot"
+        },
+        "Battery": {
+            "in-game-name": "Battery"
+        },
+        "PackagedFuel": {
+            "in-game-name": "Packaged Fuel"
+        },
+        "PackagedIonizedFuel": {
+            "in-game-name": "Packaged Ionized Fuel"
+        },
+        "PackagedRocketFuel": {
+            "in-game-name": "Packaged Rocket Fuel"
+        },
+        "PackagedTurbofuel": {
+            "in-game-name": "Packaged Turbofuel"
+        },
+        "IodineInfusedFilter": {
+            "in-game-name": "Iodine-Infused Filter"
+        },
+        "CompactedCoal": {
+            "in-game-name": "Compacted Coal"
+        },
+        "PackagedHeavyOilResidue": {
+            "in-game-name": "Packaged Heavy Oil Residue"
+        },
+        "PetroleumCoke": {
+            "in-game-name": "Petroleum Coke"
+        },
+        "PackagedOil": {
+            "in-game-name": "Packaged Oil"
+        },
+        "IronRod": {
+            "in-game-name": "Iron Rod"
+        },
+        "Wire": {
+            "in-game-name": "Wire"
+        },
+        "Cable": {
+            "in-game-name": "Cable"
+        },
+        "IronIngot": {
+            "in-game-name": "Iron Ingot"
+        },
+        "ReinforcedIronPlate": {
+            "in-game-name": "Reinforced Iron Plate"
+        },
+        "Rotor": {
+            "in-game-name": "Rotor"
+        },
+        "Fuel": {
+            "in-game-name": "Fuel"
+        },
+        "RocketFuel": {
+            "in-game-name": "Rocket Fuel"
+        },
+        "CopperSheet": {
+            "in-game-name": "Copper Sheet"
+        },
+        "ModularFrame": {
+            "in-game-name": "Modular Frame"
+        },
+        "Screw": {
+            "in-game-name": "Screw"
+        },
+        "NitricAcid": {
+            "in-game-name": "Nitric Acid"
+        },
+        "Turbofuel": {
+            "in-game-name": "Turbofuel"
+        },
+        "EmptyFluidTank": {
+            "in-game-name": "Empty Fluid Tank"
+        },
+        "CrystalOscillator": {
+            "in-game-name": "Crystal Oscillator"
+        },
+        "Motor": {
+            "in-game-name": "Motor"
+        },
+        "DarkMatterCrystal": {
+            "in-game-name": "Dark Matter Crystal"
+        },
+        "IonizedFuel": {
+            "in-game-name": "Ionized Fuel"
+        },
+        "Supercomputer": {
+            "in-game-name": "Supercomputer"
+        },
+        "CoolingSystem": {
+            "in-game-name": "Cooling System"
+        },
+        "FicsiteTrigon": {
+            "in-game-name": "Ficsite Trigon"
+        },
+        "TurboMotor": {
+            "in-game-name": "Turbo Motor"
+        },
+        "TimeCrystal": {
+            "in-game-name": "Time Crystal"
+        },
+        "DarkMatterResidue": {
+            "in-game-name": "Dark Matter Residue"
+        },
+        "ReanimatedSAM": {
+            "in-game-name": "Reanimated SAM"
+        },
+        "ExcitedPhotonicMatter": {
+            "in-game-name": "Excited Photonic Matter"
+        },
+        "Diamonds": {
+            "in-game-name": "Diamonds"
+        },
+        "AlcladAluminumSheet": {
+            "in-game-name": "Alclad Aluminum Sheet"
+        },
+        "SuperpositionOscillator": {
+            "in-game-name": "Superposition Oscillator"
+        },
+        "NeuralQuantumProcessor": {
+            "in-game-name": "Neural-Quantum Processor"
+        },
+        "AIExpansionServer": {
+            "in-game-name": "AI Expansion Server"
+        },
+        "MagneticFieldGenerator": {
+            "in-game-name": "Magnetic Field Generator"
+        },
+        "SAMFluctuator": {
+            "in-game-name": "SAM Fluctuator"
+        },
+        "SteelPipe": {
+            "in-game-name": "Steel Pipe"
+        },
+        "FusedModularFrame": {
+            "in-game-name": "Fused Modular Frame"
+        },
+        "RadioControlUnit": {
+            "in-game-name": "Radio Control Unit"
+        },
+        "FicsiteIngot": {
+            "in-game-name": "Ficsite Ingot"
+        },
+        "BiochemicalSculptor": {
+            "in-game-name": "Biochemical Sculptor"
+        },
+        "AssemblyDirectorSystem": {
+            "in-game-name": "Assembly Director System"
+        },
+        "CateriumIngot": {
+            "in-game-name": "Caterium Ingot"
+        },
+        "EmptyCanister": {
+            "in-game-name": "Empty Canister"
+        },
+        "CircuitBoard": {
+            "in-game-name": "Circuit Board"
+        },
+        "Plastic": {
+            "in-game-name": "Plastic"
+        },
+        "EncasedIndustrialBeam": {
+            "in-game-name": "Encased Industrial Beam"
+        },
+        "Rubber": {
+            "in-game-name": "Rubber"
+        },
+        "PolymerResin": {
+            "in-game-name": "Polymer Resin"
+        },
+        "HeavyOilResidue": {
+            "in-game-name": "Heavy Oil Residue"
+        },
+        "QuartzCrystal": {
+            "in-game-name": "Quartz Crystal"
+        },
+        "SteelIngot": {
+            "in-game-name": "Steel Ingot"
+        },
+        "VersatileFramework": {
+            "in-game-name": "Versatile Framework"
+        },
+        "PackagedWater": {
+            "in-game-name": "Packaged Water"
+        },
+        "CopperIngot": {
+            "in-game-name": "Copper Ingot"
+        },
+        "AluminumScrap": {
+            "in-game-name": "Aluminum Scrap"
+        },
+        "AluminumCasing": {
+            "in-game-name": "Aluminum Casing"
+        },
+        "AluminaSolution": {
+            "in-game-name": "Alumina Solution"
+        },
+        "Computer": {
+            "in-game-name": "Computer"
+        },
+        "HeavyModularFrame": {
+            "in-game-name": "Heavy Modular Frame"
+        },
+        "SmartPlating": {
+            "in-game-name": "Smart Plating"
+        },
+        "HighSpeedConnector": {
+            "in-game-name": "High-Speed Connector"
+        },
+        "AutomatedWiring": {
+            "in-game-name": "Automated Wiring"
+        },
+        "Stator": {
+            "in-game-name": "Stator"
+        },
+        "AILimiter": {
+            "in-game-name": "AI Limiter"
+        },
+        "Quickwire": {
+            "in-game-name": "Quickwire"
+        },
+        "ModularEngine": {
+            "in-game-name": "Modular Engine"
+        },
+        "AdaptiveControlUnit": {
+            "in-game-name": "Adaptive Control Unit"
+        },
+        "PressureConversionCube": {
+            "in-game-name": "Pressure Conversion Cube"
+        },
+        "EncasedPlutoniumCell": {
+            "in-game-name": "Encased Plutonium Cell"
+        },
+        "PlutoniumPellet": {
+            "in-game-name": "Plutonium Pellet"
+        },
+        "NonFissileUranium": {
+            "in-game-name": "Non-Fissile Uranium"
+        },
+        "SulfuricAcid": {
+            "in-game-name": "Sulfuric Acid"
+        },
+        "CopperPowder": {
+            "in-game-name": "Copper Powder"
+        },
+        "HeatSink": {
+            "in-game-name": "Heat Sink"
+        },
+        "ElectromagneticControlRod": {
+            "in-game-name": "Electromagnetic Control Rod"
+        },
+        "NuclearPasta": {
+            "in-game-name": "Nuclear Pasta"
+        },
+        "EncasedUraniumCell": {
+            "in-game-name": "Encased Uranium Cell"
+        },
+        "DissolvedSilica": {
+            "in-game-name": "Dissolved Silica"
+        },
+        "ThermalPropulsionRocket": {
+            "in-game-name": "Thermal Propulsion Rocket"
+        },
+        "BlackPowder": {
+            "in-game-name": "Black Powder"
+        },
+        "Ficsonium": {
+            "in-game-name": "Ficsonium"
+        },
+        "SingularityCell": {
+            "in-game-name": "Singularity Cell"
+        },
+        "BallisticWarpDrive": {
+            "in-game-name": "Ballistic Warp Drive"
+        },
+        "GasFilter": {
+            "in-game-name": "Gas Filter"
+        },
+        "AlienProtein": {
+            "in-game-name": "Alien Protein"
+        },
+        "BluePowerSlug": {
+            "in-game-name": "Blue Power Slug"
+        },
+        "AlienDNACapsule": {
+            "in-game-name": "Alien DNA Capsule"
+        },
+        "MercerSphere": {
+            "in-game-name": "Mercer Sphere"
+        },
+        "PurplePowerSlug": {
+            "in-game-name": "Purple Power Slug"
+        },
+        "YellowPowerSlug": {
+            "in-game-name": "Yellow Power Slug"
+        },
+        "SmokelessPowder": {
+            "in-game-name": "Smokeless Powder"
+        },
+        "RebarGun": {
+            "in-game-name": "Rebar Gun"
+        },
+        "Rifle": {
+            "in-game-name": "Rifle"
+        },
+        "UraniumFuelRod": {
+            "in-game-name": "Uranium Fuel Rod"
+        },
+        "PlutoniumFuelRod": {
+            "in-game-name": "Plutonium Fuel Rod"
+        },
+        "FicsoniumFuelRod": {
+            "in-game-name": "Ficsonium Fuel Rod"
+        },
+        "ExplosiveRebar": {
+            "in-game-name": "Explosive Rebar"
+        },
+        "StunRebar": {
+            "in-game-name": "Stun Rebar"
+        },
+        "HomingRifleAmmo": {
+            "in-game-name": "Homing Rifle Ammo"
+        },
+        "ClusterNobelisk": {
+            "in-game-name": "Cluster Nobelisk"
+        },
+        "Nobelisk": {
+            "in-game-name": "Nobelisk"
+        },
+        "GasNobelisk": {
+            "in-game-name": "Gas Nobelisk"
+        },
+        "NukeNobelisk": {
+            "in-game-name": "Nuke Nobelisk"
+        },
+        "PulseNobelisk": {
+            "in-game-name": "Pulse Nobelisk"
+        },
+        "IronRebar": {
+            "in-game-name": "Iron Rebar"
+        },
+        "HazmatSuit": {
+            "in-game-name": "Hazmat Suit"
+        },
+        "NobeliskDetonator": {
+            "in-game-name": "Nobelisk Detonator"
+        },
+        "FactoryCart\u2122": {
+            "in-game-name": "Factory Cart\u2122"
+        },
+        "GoldenFactoryCart\u2122": {
+            "in-game-name": "Golden Factory Cart\u2122"
+        },
+        "PortableMiner": {
+            "in-game-name": "Portable Miner"
+        },
+        "XenoZapper": {
+            "in-game-name": "Xeno-Zapper"
+        },
+        "ObjectScanner": {
+            "in-game-name": "Object Scanner"
+        },
+        "Hoverpack": {
+            "in-game-name": "Hoverpack"
+        },
+        "Jetpack": {
+            "in-game-name": "Jetpack"
+        },
+        "XenoBasher": {
+            "in-game-name": "Xeno-Basher"
+        },
+        "Chainsaw": {
+            "in-game-name": "Chainsaw"
+        },
+        "BladeRunners": {
+            "in-game-name": "Blade Runners"
+        },
+        "Zipline": {
+            "in-game-name": "Zipline"
+        },
+        "GasMask": {
+            "in-game-name": "Gas Mask"
+        },
+        "ShatterRebar": {
+            "in-game-name": "Shatter Rebar"
+        },
+        "TurboRifleAmmo": {
+            "in-game-name": "Turbo Rifle Ammo"
+        },
+        "RifleAmmo": {
+            "in-game-name": "Rifle Ammo"
+        },
+        "IronOre": {
+            "in-game-name": "Iron Ore"
+        },
+        "Coal": {
+            "in-game-name": "Coal"
+        },
+        "Water": {
+            "in-game-name": "Water"
+        },
+        "NitrogenGas": {
+            "in-game-name": "Nitrogen Gas"
+        },
+        "Sulfur": {
+            "in-game-name": "Sulfur"
+        },
+        "SAM": {
+            "in-game-name": "SAM"
+        },
+        "Bauxite": {
+            "in-game-name": "Bauxite"
+        },
+        "CateriumOre": {
+            "in-game-name": "Caterium Ore"
+        },
+        "CopperOre": {
+            "in-game-name": "Copper Ore"
+        },
+        "RawQuartz": {
+            "in-game-name": "Raw Quartz"
+        },
+        "Limestone": {
+            "in-game-name": "Limestone"
+        },
+        "Uranium": {
+            "in-game-name": "Uranium"
+        },
+        "CrudeOil": {
+            "in-game-name": "Crude Oil"
+        },
+        "MedicinalInhaler": {
+            "in-game-name": "Medicinal Inhaler"
+        },
+        "SolidBiofuel": {
+            "in-game-name": "Solid Biofuel"
+        },
+        "PackagedLiquidBiofuel": {
+            "in-game-name": "Packaged Liquid Biofuel"
+        },
+        "Biomass": {
+            "in-game-name": "Biomass"
+        },
+        "Leaves": {
+            "in-game-name": "Leaves"
+        },
+        "Mycelia": {
+            "in-game-name": "Mycelia"
+        },
+        "Wood": {
+            "in-game-name": "Wood"
+        },
+        "LiquidBiofuel": {
+            "in-game-name": "Liquid Biofuel"
+        },
+        "PackagedAluminaSolution": {
+            "in-game-name": "Packaged Alumina Solution"
+        },
+        "PackagedNitrogenGas": {
+            "in-game-name": "Packaged Nitrogen Gas"
+        },
+        "PackagedNitricAcid": {
+            "in-game-name": "Packaged Nitric Acid"
+        },
+        "PackagedSulfuricAcid": {
+            "in-game-name": "Packaged Sulfuric Acid"
+        },
+        "Fabric": {
+            "in-game-name": "Fabric"
+        },
+        "HogRemains": {
+            "in-game-name": "Hog Remains"
+        },
+        "SpitterRemains": {
+            "in-game-name": "Spitter Remains"
+        },
+        "StingerRemains": {
+            "in-game-name": "Stinger Remains"
+        },
+        "HatcherRemains": {
+            "in-game-name": "Hatcher Remains"
+        },
+        "PowerShard": {
+            "in-game-name": "Power Shard"
+        },
+        "Somersloop": {
+            "in-game-name": "Somersloop"
+        },
+        "Paleberry": {
+            "in-game-name": "Paleberry"
+        },
+        "BerylNut": {
+            "in-game-name": "Beryl Nut"
+        },
+        "BaconAgaric": {
+            "in-game-name": "Bacon Agaric"
+        },
+        "Parachute": {
+            "in-game-name": "Parachute"
+        },
+        "AlienPowerMatrix": {
+            "in-game-name": "Alien Power Matrix"
+        },
+        "FICSITCoupon": {
+            "in-game-name": "FICSIT Coupon"
+        }
+    },
+    "recipes": {
+        "IronPlate": {
+            "in-game-name": "Iron Plate",
+            "inputs": [
+                {
+                    "item": "IronIngot",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "IronPlate",
+                    "rate": 20.0
+                }
+            ]
+        },
+        "IronRod": {
+            "in-game-name": "Iron Rod",
+            "inputs": [
+                {
+                    "item": "IronIngot",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "IronRod",
+                    "rate": 15.0
+                }
+            ]
+        },
+        "XenoZapper": {
+            "in-game-name": "Xeno-Zapper",
+            "inputs": [
+                {
+                    "item": "IronRod",
+                    "rate": 15.0
+                },
+                {
+                    "item": "ReinforcedIronPlate",
+                    "rate": 3.0
+                },
+                {
+                    "item": "Cable",
+                    "rate": 22.5
+                },
+                {
+                    "item": "Wire",
+                    "rate": 75.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "XenoZapper",
+                    "rate": 1.5
+                }
+            ]
+        },
+        "IronIngot": {
+            "in-game-name": "Iron Ingot",
+            "inputs": [
+                {
+                    "item": "IronOre",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "IronIngot",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "NitroRocketFuel": {
+            "in-game-name": "Alternate: Nitro Rocket Fuel",
+            "inputs": [
+                {
+                    "item": "Fuel",
+                    "rate": 100.0
+                },
+                {
+                    "item": "NitrogenGas",
+                    "rate": 75.0
+                },
+                {
+                    "item": "Sulfur",
+                    "rate": 100.0
+                },
+                {
+                    "item": "Coal",
+                    "rate": 50.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "RocketFuel",
+                    "rate": 150.0
+                },
+                {
+                    "item": "CompactedCoal",
+                    "rate": 25.0
+                }
+            ]
+        },
+        "RocketFuel": {
+            "in-game-name": "Rocket Fuel",
+            "inputs": [
+                {
+                    "item": "Turbofuel",
+                    "rate": 60.0
+                },
+                {
+                    "item": "NitricAcid",
+                    "rate": 10.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "RocketFuel",
+                    "rate": 100.0
+                },
+                {
+                    "item": "CompactedCoal",
+                    "rate": 10.0
+                }
+            ]
+        },
+        "PackagedRocketFuel": {
+            "in-game-name": "Packaged Rocket Fuel",
+            "inputs": [
+                {
+                    "item": "RocketFuel",
+                    "rate": 120.0
+                },
+                {
+                    "item": "EmptyFluidTank",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PackagedRocketFuel",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "UnpackageRocketFuel": {
+            "in-game-name": "Unpackage Rocket Fuel",
+            "inputs": [
+                {
+                    "item": "PackagedRocketFuel",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "RocketFuel",
+                    "rate": 120.0
+                },
+                {
+                    "item": "EmptyFluidTank",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "DarkIonFuel": {
+            "in-game-name": "Alternate: Dark-Ion Fuel",
+            "inputs": [
+                {
+                    "item": "PackagedRocketFuel",
+                    "rate": 240.0
+                },
+                {
+                    "item": "DarkMatterCrystal",
+                    "rate": 80.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "IonizedFuel",
+                    "rate": 200.0
+                },
+                {
+                    "item": "CompactedCoal",
+                    "rate": 40.0
+                }
+            ]
+        },
+        "DarkMatterResidue": {
+            "in-game-name": "Dark Matter Residue",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 50.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "DarkMatterResidue",
+                    "rate": 100.0
+                }
+            ]
+        },
+        "ExcitedPhotonicMatter": {
+            "in-game-name": "Excited Photonic Matter",
+            "inputs": [],
+            "outputs": [
+                {
+                    "item": "ExcitedPhotonicMatter",
+                    "rate": 200.0
+                }
+            ]
+        },
+        "DarkMatterCrystal": {
+            "in-game-name": "Dark Matter Crystal",
+            "inputs": [
+                {
+                    "item": "Diamonds",
+                    "rate": 30.0
+                },
+                {
+                    "item": "DarkMatterResidue",
+                    "rate": 150.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "DarkMatterCrystal",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "SuperpositionOscillator": {
+            "in-game-name": "Superposition Oscillator",
+            "inputs": [
+                {
+                    "item": "DarkMatterCrystal",
+                    "rate": 30.0
+                },
+                {
+                    "item": "CrystalOscillator",
+                    "rate": 5.0
+                },
+                {
+                    "item": "AlcladAluminumSheet",
+                    "rate": 45.0
+                },
+                {
+                    "item": "ExcitedPhotonicMatter",
+                    "rate": 125.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "SuperpositionOscillator",
+                    "rate": 5.0
+                },
+                {
+                    "item": "DarkMatterResidue",
+                    "rate": 125.0
+                }
+            ]
+        },
+        "NeuralQuantumProcessor": {
+            "in-game-name": "Neural-Quantum Processor",
+            "inputs": [
+                {
+                    "item": "TimeCrystal",
+                    "rate": 15.0
+                },
+                {
+                    "item": "Supercomputer",
+                    "rate": 3.0
+                },
+                {
+                    "item": "FicsiteTrigon",
+                    "rate": 45.0
+                },
+                {
+                    "item": "ExcitedPhotonicMatter",
+                    "rate": 75.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "NeuralQuantumProcessor",
+                    "rate": 3.0
+                },
+                {
+                    "item": "DarkMatterResidue",
+                    "rate": 75.0
+                }
+            ]
+        },
+        "AIExpansionServer": {
+            "in-game-name": "AI Expansion Server",
+            "inputs": [
+                {
+                    "item": "MagneticFieldGenerator",
+                    "rate": 4.0
+                },
+                {
+                    "item": "NeuralQuantumProcessor",
+                    "rate": 4.0
+                },
+                {
+                    "item": "SuperpositionOscillator",
+                    "rate": 4.0
+                },
+                {
+                    "item": "ExcitedPhotonicMatter",
+                    "rate": 100.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AIExpansionServer",
+                    "rate": 4.0
+                },
+                {
+                    "item": "DarkMatterResidue",
+                    "rate": 100.0
+                }
+            ]
+        },
+        "IonizedFuel": {
+            "in-game-name": "Ionized Fuel",
+            "inputs": [
+                {
+                    "item": "RocketFuel",
+                    "rate": 40.0
+                },
+                {
+                    "item": "PowerShard",
+                    "rate": 2.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "IonizedFuel",
+                    "rate": 40.0
+                },
+                {
+                    "item": "CompactedCoal",
+                    "rate": 5.0
+                }
+            ]
+        },
+        "PackagedIonizedFuel": {
+            "in-game-name": "Packaged Ionized Fuel",
+            "inputs": [
+                {
+                    "item": "IonizedFuel",
+                    "rate": 80.0
+                },
+                {
+                    "item": "EmptyFluidTank",
+                    "rate": 40.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PackagedIonizedFuel",
+                    "rate": 40.0
+                }
+            ]
+        },
+        "UnpackageIonizedFuel": {
+            "in-game-name": "Unpackage Ionized Fuel",
+            "inputs": [
+                {
+                    "item": "PackagedIonizedFuel",
+                    "rate": 40.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "IonizedFuel",
+                    "rate": 80.0
+                },
+                {
+                    "item": "EmptyFluidTank",
+                    "rate": 40.0
+                }
+            ]
+        },
+        "TurboDiamonds": {
+            "in-game-name": "Alternate: Turbo Diamonds",
+            "inputs": [
+                {
+                    "item": "Coal",
+                    "rate": 600.0
+                },
+                {
+                    "item": "PackagedTurbofuel",
+                    "rate": 40.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Diamonds",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "SAMFluctuator": {
+            "in-game-name": "SAM Fluctuator",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 60.0
+                },
+                {
+                    "item": "Wire",
+                    "rate": 50.0
+                },
+                {
+                    "item": "SteelPipe",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "SAMFluctuator",
+                    "rate": 10.0
+                }
+            ]
+        },
+        "FicsiteTrigon": {
+            "in-game-name": "Ficsite Trigon",
+            "inputs": [
+                {
+                    "item": "FicsiteIngot",
+                    "rate": 10.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "FicsiteTrigon",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "FicsiteIngotFromIron": {
+            "in-game-name": "Ficsite Ingot (Iron)",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 40.0
+                },
+                {
+                    "item": "IronIngot",
+                    "rate": 240.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "FicsiteIngot",
+                    "rate": 10.0
+                }
+            ]
+        },
+        "TimeCrystal": {
+            "in-game-name": "Time Crystal",
+            "inputs": [
+                {
+                    "item": "Diamonds",
+                    "rate": 12.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "TimeCrystal",
+                    "rate": 6.0
+                }
+            ]
+        },
+        "Diamonds": {
+            "in-game-name": "Diamonds",
+            "inputs": [
+                {
+                    "item": "Coal",
+                    "rate": 600.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Diamonds",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "ReanimatedSAM": {
+            "in-game-name": "Reanimated SAM",
+            "inputs": [
+                {
+                    "item": "SAM",
+                    "rate": 120.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "BiochemicalSculptor": {
+            "in-game-name": "Biochemical Sculptor",
+            "inputs": [
+                {
+                    "item": "AssemblyDirectorSystem",
+                    "rate": 0.5
+                },
+                {
+                    "item": "FicsiteTrigon",
+                    "rate": 40.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 10.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "BiochemicalSculptor",
+                    "rate": 2.0
+                }
+            ]
+        },
+        "FicsiteIngotFromAluminum": {
+            "in-game-name": "Ficsite Ingot (Aluminum)",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 60.0
+                },
+                {
+                    "item": "AluminumIngot",
+                    "rate": 120.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "FicsiteIngot",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "FicsiteIngotFromCaterium": {
+            "in-game-name": "Ficsite Ingot (Caterium)",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 45.0
+                },
+                {
+                    "item": "CateriumIngot",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "FicsiteIngot",
+                    "rate": 15.0
+                }
+            ]
+        },
+        "BauxiteFromCaterium": {
+            "in-game-name": "Bauxite (Caterium)",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 10.0
+                },
+                {
+                    "item": "CateriumOre",
+                    "rate": 150.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Bauxite",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "BauxiteFromCopper": {
+            "in-game-name": "Bauxite (Copper)",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 10.0
+                },
+                {
+                    "item": "CopperOre",
+                    "rate": 180.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Bauxite",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "CateriumOreFromCopper": {
+            "in-game-name": "Caterium Ore (Copper)",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 10.0
+                },
+                {
+                    "item": "CopperOre",
+                    "rate": 150.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CateriumOre",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "CateriumOreFromQuartz": {
+            "in-game-name": "Caterium Ore (Quartz)",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 10.0
+                },
+                {
+                    "item": "RawQuartz",
+                    "rate": 120.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CateriumOre",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "CoalFromIron": {
+            "in-game-name": "Coal (Iron)",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 10.0
+                },
+                {
+                    "item": "IronOre",
+                    "rate": 180.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Coal",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "CoalFromLimestone": {
+            "in-game-name": "Coal (Limestone)",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 10.0
+                },
+                {
+                    "item": "Limestone",
+                    "rate": 360.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Coal",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "CopperOreFromQuartz": {
+            "in-game-name": "Copper Ore (Quartz)",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 10.0
+                },
+                {
+                    "item": "RawQuartz",
+                    "rate": 100.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CopperOre",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "CopperOreFromSulfur": {
+            "in-game-name": "Copper Ore (Sulfur)",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 10.0
+                },
+                {
+                    "item": "Sulfur",
+                    "rate": 120.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CopperOre",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "IronOreFromLimestone": {
+            "in-game-name": "Iron Ore (Limestone)",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 10.0
+                },
+                {
+                    "item": "Limestone",
+                    "rate": 240.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "IronOre",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "LimestoneFromSulfur": {
+            "in-game-name": "Limestone (Sulfur)",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 10.0
+                },
+                {
+                    "item": "Sulfur",
+                    "rate": 20.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Limestone",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "NitrogenGasFromBauxite": {
+            "in-game-name": "Nitrogen Gas (Bauxite)",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 10.0
+                },
+                {
+                    "item": "Bauxite",
+                    "rate": 100.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "NitrogenGas",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "NitrogenGasFromCaterium": {
+            "in-game-name": "Nitrogen Gas (Caterium)",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 10.0
+                },
+                {
+                    "item": "CateriumOre",
+                    "rate": 120.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "NitrogenGas",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "RawQuartzFromBauxite": {
+            "in-game-name": "Raw Quartz (Bauxite)",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 10.0
+                },
+                {
+                    "item": "Bauxite",
+                    "rate": 100.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "RawQuartz",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "RawQuartzFromCoal": {
+            "in-game-name": "Raw Quartz (Coal)",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 10.0
+                },
+                {
+                    "item": "Coal",
+                    "rate": 240.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "RawQuartz",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "SulfurFromCoal": {
+            "in-game-name": "Sulfur (Coal)",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 10.0
+                },
+                {
+                    "item": "Coal",
+                    "rate": 200.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Sulfur",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "SulfurFromIron": {
+            "in-game-name": "Sulfur (Iron)",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 10.0
+                },
+                {
+                    "item": "IronOre",
+                    "rate": 300.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Sulfur",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "UraniumOreFromBauxite": {
+            "in-game-name": "Uranium Ore (Bauxite)",
+            "inputs": [
+                {
+                    "item": "ReanimatedSAM",
+                    "rate": 10.0
+                },
+                {
+                    "item": "Bauxite",
+                    "rate": 480.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Uranium",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "Turbofuel": {
+            "in-game-name": "Turbofuel",
+            "inputs": [
+                {
+                    "item": "Fuel",
+                    "rate": 22.5
+                },
+                {
+                    "item": "CompactedCoal",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Turbofuel",
+                    "rate": 18.75
+                }
+            ]
+        },
+        "PackagedTurbofuel": {
+            "in-game-name": "Packaged Turbofuel",
+            "inputs": [
+                {
+                    "item": "Turbofuel",
+                    "rate": 20.0
+                },
+                {
+                    "item": "EmptyCanister",
+                    "rate": 20.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PackagedTurbofuel",
+                    "rate": 20.0
+                }
+            ]
+        },
+        "UnpackageTurbofuel": {
+            "in-game-name": "Unpackage Turbofuel",
+            "inputs": [
+                {
+                    "item": "PackagedTurbofuel",
+                    "rate": 20.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Turbofuel",
+                    "rate": 20.0
+                },
+                {
+                    "item": "EmptyCanister",
+                    "rate": 20.0
+                }
+            ]
+        },
+        "Charcoal": {
+            "in-game-name": "Alternate: Charcoal",
+            "inputs": [
+                {
+                    "item": "Wood",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Coal",
+                    "rate": 150.0
+                }
+            ]
+        },
+        "Biocoal": {
+            "in-game-name": "Alternate: Biocoal",
+            "inputs": [
+                {
+                    "item": "Biomass",
+                    "rate": 37.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Coal",
+                    "rate": 45.0
+                }
+            ]
+        },
+        "CompactedCoal": {
+            "in-game-name": "Alternate: Compacted Coal",
+            "inputs": [
+                {
+                    "item": "Coal",
+                    "rate": 25.0
+                },
+                {
+                    "item": "Sulfur",
+                    "rate": 25.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CompactedCoal",
+                    "rate": 25.0
+                }
+            ]
+        },
+        "CircuitBoard": {
+            "in-game-name": "Circuit Board",
+            "inputs": [
+                {
+                    "item": "CopperSheet",
+                    "rate": 15.0
+                },
+                {
+                    "item": "Plastic",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CircuitBoard",
+                    "rate": 7.5
+                }
+            ]
+        },
+        "Fuel": {
+            "in-game-name": "Fuel",
+            "inputs": [
+                {
+                    "item": "CrudeOil",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Fuel",
+                    "rate": 40.0
+                },
+                {
+                    "item": "PolymerResin",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "PetroleumCoke": {
+            "in-game-name": "Petroleum Coke",
+            "inputs": [
+                {
+                    "item": "HeavyOilResidue",
+                    "rate": 40.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PetroleumCoke",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "Plastic": {
+            "in-game-name": "Plastic",
+            "inputs": [
+                {
+                    "item": "CrudeOil",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Plastic",
+                    "rate": 20.0
+                },
+                {
+                    "item": "HeavyOilResidue",
+                    "rate": 10.0
+                }
+            ]
+        },
+        "Rubber": {
+            "in-game-name": "Rubber",
+            "inputs": [
+                {
+                    "item": "CrudeOil",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Rubber",
+                    "rate": 20.0
+                },
+                {
+                    "item": "HeavyOilResidue",
+                    "rate": 20.0
+                }
+            ]
+        },
+        "ResidualFuel": {
+            "in-game-name": "Residual Fuel",
+            "inputs": [
+                {
+                    "item": "HeavyOilResidue",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Fuel",
+                    "rate": 40.0
+                }
+            ]
+        },
+        "ResidualPlastic": {
+            "in-game-name": "Residual Plastic",
+            "inputs": [
+                {
+                    "item": "PolymerResin",
+                    "rate": 60.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 20.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Plastic",
+                    "rate": 20.0
+                }
+            ]
+        },
+        "ResidualRubber": {
+            "in-game-name": "Residual Rubber",
+            "inputs": [
+                {
+                    "item": "PolymerResin",
+                    "rate": 40.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 40.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Rubber",
+                    "rate": 20.0
+                }
+            ]
+        },
+        "PinkDiamonds": {
+            "in-game-name": "Alternate: Pink Diamonds",
+            "inputs": [
+                {
+                    "item": "Coal",
+                    "rate": 120.0
+                },
+                {
+                    "item": "QuartzCrystal",
+                    "rate": 45.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Diamonds",
+                    "rate": 15.0
+                }
+            ]
+        },
+        "PetroleumDiamonds": {
+            "in-game-name": "Alternate: Petroleum Diamonds",
+            "inputs": [
+                {
+                    "item": "PetroleumCoke",
+                    "rate": 720.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Diamonds",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "OilBasedDiamonds": {
+            "in-game-name": "Alternate: Oil-Based Diamonds",
+            "inputs": [
+                {
+                    "item": "CrudeOil",
+                    "rate": 200.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Diamonds",
+                    "rate": 40.0
+                }
+            ]
+        },
+        "CloudyDiamonds": {
+            "in-game-name": "Alternate: Cloudy Diamonds",
+            "inputs": [
+                {
+                    "item": "Coal",
+                    "rate": 240.0
+                },
+                {
+                    "item": "Limestone",
+                    "rate": 480.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Diamonds",
+                    "rate": 20.0
+                }
+            ]
+        },
+        "DarkMatterTrap": {
+            "in-game-name": "Alternate: Dark Matter Trap",
+            "inputs": [
+                {
+                    "item": "TimeCrystal",
+                    "rate": 30.0
+                },
+                {
+                    "item": "DarkMatterResidue",
+                    "rate": 150.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "DarkMatterCrystal",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "DarkMatterCrystallization": {
+            "in-game-name": "Alternate: Dark Matter Crystallization",
+            "inputs": [
+                {
+                    "item": "DarkMatterResidue",
+                    "rate": 200.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "DarkMatterCrystal",
+                    "rate": 20.0
+                }
+            ]
+        },
+        "WetConcrete": {
+            "in-game-name": "Alternate: Wet Concrete",
+            "inputs": [
+                {
+                    "item": "Limestone",
+                    "rate": 120.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 100.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Concrete",
+                    "rate": 80.0
+                }
+            ]
+        },
+        "TurboHeavyFuel": {
+            "in-game-name": "Alternate: Turbo Heavy Fuel",
+            "inputs": [
+                {
+                    "item": "HeavyOilResidue",
+                    "rate": 37.5
+                },
+                {
+                    "item": "CompactedCoal",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Turbofuel",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "SteelRod": {
+            "in-game-name": "Alternate: Steel Rod",
+            "inputs": [
+                {
+                    "item": "SteelIngot",
+                    "rate": 12.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "IronRod",
+                    "rate": 48.0
+                }
+            ]
+        },
+        "SteelBeam": {
+            "in-game-name": "Steel Beam",
+            "inputs": [
+                {
+                    "item": "SteelIngot",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "SteelBeam",
+                    "rate": 15.0
+                }
+            ]
+        },
+        "SteelPipe": {
+            "in-game-name": "Steel Pipe",
+            "inputs": [
+                {
+                    "item": "SteelIngot",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "SteelPipe",
+                    "rate": 20.0
+                }
+            ]
+        },
+        "SteelIngot": {
+            "in-game-name": "Steel Ingot",
+            "inputs": [
+                {
+                    "item": "IronOre",
+                    "rate": 45.0
+                },
+                {
+                    "item": "Coal",
+                    "rate": 45.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "SteelIngot",
+                    "rate": 45.0
+                }
+            ]
+        },
+        "VersatileFramework": {
+            "in-game-name": "Versatile Framework",
+            "inputs": [
+                {
+                    "item": "ModularFrame",
+                    "rate": 2.5
+                },
+                {
+                    "item": "SteelBeam",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "VersatileFramework",
+                    "rate": 5.0
+                }
+            ]
+        },
+        "SteelCanister": {
+            "in-game-name": "Alternate: Steel Canister",
+            "inputs": [
+                {
+                    "item": "SteelIngot",
+                    "rate": 40.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "EmptyCanister",
+                    "rate": 40.0
+                }
+            ]
+        },
+        "EmptyCanister": {
+            "in-game-name": "Empty Canister",
+            "inputs": [
+                {
+                    "item": "Plastic",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "EmptyCanister",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "PackagedFuel": {
+            "in-game-name": "Packaged Fuel",
+            "inputs": [
+                {
+                    "item": "Fuel",
+                    "rate": 40.0
+                },
+                {
+                    "item": "EmptyCanister",
+                    "rate": 40.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PackagedFuel",
+                    "rate": 40.0
+                }
+            ]
+        },
+        "LiquidBiofuel": {
+            "in-game-name": "Liquid Biofuel",
+            "inputs": [
+                {
+                    "item": "SolidBiofuel",
+                    "rate": 90.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 45.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "LiquidBiofuel",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "PackagedLiquidBiofuel": {
+            "in-game-name": "Packaged Liquid Biofuel",
+            "inputs": [
+                {
+                    "item": "LiquidBiofuel",
+                    "rate": 40.0
+                },
+                {
+                    "item": "EmptyCanister",
+                    "rate": 40.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PackagedLiquidBiofuel",
+                    "rate": 40.0
+                }
+            ]
+        },
+        "PackagedOil": {
+            "in-game-name": "Packaged Oil",
+            "inputs": [
+                {
+                    "item": "CrudeOil",
+                    "rate": 30.0
+                },
+                {
+                    "item": "EmptyCanister",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PackagedOil",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "PackagedHeavyOilResidue": {
+            "in-game-name": "Packaged Heavy Oil Residue",
+            "inputs": [
+                {
+                    "item": "HeavyOilResidue",
+                    "rate": 30.0
+                },
+                {
+                    "item": "EmptyCanister",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PackagedHeavyOilResidue",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "PackagedWater": {
+            "in-game-name": "Packaged Water",
+            "inputs": [
+                {
+                    "item": "Water",
+                    "rate": 60.0
+                },
+                {
+                    "item": "EmptyCanister",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PackagedWater",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "UnpackageLiquidBiofuel": {
+            "in-game-name": "Unpackage Liquid Biofuel",
+            "inputs": [
+                {
+                    "item": "PackagedLiquidBiofuel",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "LiquidBiofuel",
+                    "rate": 60.0
+                },
+                {
+                    "item": "EmptyCanister",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "UnpackageFuel": {
+            "in-game-name": "Unpackage Fuel",
+            "inputs": [
+                {
+                    "item": "PackagedFuel",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Fuel",
+                    "rate": 60.0
+                },
+                {
+                    "item": "EmptyCanister",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "UnpackageOil": {
+            "in-game-name": "Unpackage Oil",
+            "inputs": [
+                {
+                    "item": "PackagedOil",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CrudeOil",
+                    "rate": 60.0
+                },
+                {
+                    "item": "EmptyCanister",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "UnpackageHeavyOilResidue": {
+            "in-game-name": "Unpackage Heavy Oil Residue",
+            "inputs": [
+                {
+                    "item": "PackagedHeavyOilResidue",
+                    "rate": 20.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "HeavyOilResidue",
+                    "rate": 20.0
+                },
+                {
+                    "item": "EmptyCanister",
+                    "rate": 20.0
+                }
+            ]
+        },
+        "UnpackageWater": {
+            "in-game-name": "Unpackage Water",
+            "inputs": [
+                {
+                    "item": "PackagedWater",
+                    "rate": 120.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Water",
+                    "rate": 120.0
+                },
+                {
+                    "item": "EmptyCanister",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "SteamedCopperSheet": {
+            "in-game-name": "Alternate: Steamed Copper Sheet",
+            "inputs": [
+                {
+                    "item": "CopperIngot",
+                    "rate": 22.5
+                },
+                {
+                    "item": "Water",
+                    "rate": 22.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CopperSheet",
+                    "rate": 22.5
+                }
+            ]
+        },
+        "RubberConcrete": {
+            "in-game-name": "Alternate: Rubber Concrete",
+            "inputs": [
+                {
+                    "item": "Limestone",
+                    "rate": 100.0
+                },
+                {
+                    "item": "Rubber",
+                    "rate": 20.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Concrete",
+                    "rate": 90.0
+                }
+            ]
+        },
+        "RecycledRubber": {
+            "in-game-name": "Alternate: Recycled Rubber",
+            "inputs": [
+                {
+                    "item": "Plastic",
+                    "rate": 30.0
+                },
+                {
+                    "item": "Fuel",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Rubber",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "PureQuartzCrystal": {
+            "in-game-name": "Alternate: Pure Quartz Crystal",
+            "inputs": [
+                {
+                    "item": "RawQuartz",
+                    "rate": 67.5
+                },
+                {
+                    "item": "Water",
+                    "rate": 37.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "QuartzCrystal",
+                    "rate": 52.5
+                }
+            ]
+        },
+        "QuartzCrystal": {
+            "in-game-name": "Quartz Crystal",
+            "inputs": [
+                {
+                    "item": "RawQuartz",
+                    "rate": 37.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "QuartzCrystal",
+                    "rate": 22.5
+                }
+            ]
+        },
+        "PureIronIngot": {
+            "in-game-name": "Alternate: Pure Iron Ingot",
+            "inputs": [
+                {
+                    "item": "IronOre",
+                    "rate": 35.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 20.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "IronIngot",
+                    "rate": 65.0
+                }
+            ]
+        },
+        "PureCopperIngot": {
+            "in-game-name": "Alternate: Pure Copper Ingot",
+            "inputs": [
+                {
+                    "item": "CopperOre",
+                    "rate": 15.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 10.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CopperIngot",
+                    "rate": 37.5
+                }
+            ]
+        },
+        "PureCateriumIngot": {
+            "in-game-name": "Alternate: Pure Caterium Ingot",
+            "inputs": [
+                {
+                    "item": "CateriumOre",
+                    "rate": 24.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 24.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CateriumIngot",
+                    "rate": 12.0
+                }
+            ]
+        },
+        "PureAluminumIngot": {
+            "in-game-name": "Alternate: Pure Aluminum Ingot",
+            "inputs": [
+                {
+                    "item": "AluminumScrap",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AluminumIngot",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "AluminumCasing": {
+            "in-game-name": "Aluminum Casing",
+            "inputs": [
+                {
+                    "item": "AluminumIngot",
+                    "rate": 90.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AluminumCasing",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "AlcladAluminumSheet": {
+            "in-game-name": "Alclad Aluminum Sheet",
+            "inputs": [
+                {
+                    "item": "AluminumIngot",
+                    "rate": 30.0
+                },
+                {
+                    "item": "CopperIngot",
+                    "rate": 10.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AlcladAluminumSheet",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "AluminaSolution": {
+            "in-game-name": "Alumina Solution",
+            "inputs": [
+                {
+                    "item": "Bauxite",
+                    "rate": 120.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 180.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AluminaSolution",
+                    "rate": 120.0
+                },
+                {
+                    "item": "Silica",
+                    "rate": 50.0
+                }
+            ]
+        },
+        "AluminumScrap": {
+            "in-game-name": "Aluminum Scrap",
+            "inputs": [
+                {
+                    "item": "AluminaSolution",
+                    "rate": 240.0
+                },
+                {
+                    "item": "Coal",
+                    "rate": 120.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AluminumScrap",
+                    "rate": 360.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "PackagedAluminaSolution": {
+            "in-game-name": "Packaged Alumina Solution",
+            "inputs": [
+                {
+                    "item": "AluminaSolution",
+                    "rate": 120.0
+                },
+                {
+                    "item": "EmptyCanister",
+                    "rate": 120.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PackagedAluminaSolution",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "AluminumIngot": {
+            "in-game-name": "Aluminum Ingot",
+            "inputs": [
+                {
+                    "item": "AluminumScrap",
+                    "rate": 90.0
+                },
+                {
+                    "item": "Silica",
+                    "rate": 75.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AluminumIngot",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "Silica": {
+            "in-game-name": "Silica",
+            "inputs": [
+                {
+                    "item": "RawQuartz",
+                    "rate": 22.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Silica",
+                    "rate": 37.5
+                }
+            ]
+        },
+        "CrystalOscillator": {
+            "in-game-name": "Crystal Oscillator",
+            "inputs": [
+                {
+                    "item": "QuartzCrystal",
+                    "rate": 18.0
+                },
+                {
+                    "item": "Cable",
+                    "rate": 14.0
+                },
+                {
+                    "item": "ReinforcedIronPlate",
+                    "rate": 2.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CrystalOscillator",
+                    "rate": 1.0
+                }
+            ]
+        },
+        "UnpackageAluminaSolution": {
+            "in-game-name": "Unpackage Alumina Solution",
+            "inputs": [
+                {
+                    "item": "PackagedAluminaSolution",
+                    "rate": 120.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AluminaSolution",
+                    "rate": 120.0
+                },
+                {
+                    "item": "EmptyCanister",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "PolymerResin": {
+            "in-game-name": "Alternate: Polymer Resin",
+            "inputs": [
+                {
+                    "item": "CrudeOil",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PolymerResin",
+                    "rate": 130.0
+                },
+                {
+                    "item": "HeavyOilResidue",
+                    "rate": 20.0
+                }
+            ]
+        },
+        "PlasticSmartPlating": {
+            "in-game-name": "Alternate: Plastic Smart Plating",
+            "inputs": [
+                {
+                    "item": "ReinforcedIronPlate",
+                    "rate": 2.5
+                },
+                {
+                    "item": "Rotor",
+                    "rate": 2.5
+                },
+                {
+                    "item": "Plastic",
+                    "rate": 7.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "SmartPlating",
+                    "rate": 5.0
+                }
+            ]
+        },
+        "AutomatedSpeedWiring": {
+            "in-game-name": "Alternate: Automated Speed Wiring",
+            "inputs": [
+                {
+                    "item": "Stator",
+                    "rate": 3.75
+                },
+                {
+                    "item": "Wire",
+                    "rate": 75.0
+                },
+                {
+                    "item": "HighSpeedConnector",
+                    "rate": 1.875
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AutomatedWiring",
+                    "rate": 7.5
+                }
+            ]
+        },
+        "EncasedIndustrialBeam": {
+            "in-game-name": "Encased Industrial Beam",
+            "inputs": [
+                {
+                    "item": "SteelBeam",
+                    "rate": 18.0
+                },
+                {
+                    "item": "Concrete",
+                    "rate": 36.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "EncasedIndustrialBeam",
+                    "rate": 6.0
+                }
+            ]
+        },
+        "Motor": {
+            "in-game-name": "Motor",
+            "inputs": [
+                {
+                    "item": "Rotor",
+                    "rate": 10.0
+                },
+                {
+                    "item": "Stator",
+                    "rate": 10.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Motor",
+                    "rate": 5.0
+                }
+            ]
+        },
+        "Stator": {
+            "in-game-name": "Stator",
+            "inputs": [
+                {
+                    "item": "SteelPipe",
+                    "rate": 15.0
+                },
+                {
+                    "item": "Wire",
+                    "rate": 40.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Stator",
+                    "rate": 5.0
+                }
+            ]
+        },
+        "AutomatedWiring": {
+            "in-game-name": "Automated Wiring",
+            "inputs": [
+                {
+                    "item": "Stator",
+                    "rate": 2.5
+                },
+                {
+                    "item": "Cable",
+                    "rate": 50.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AutomatedWiring",
+                    "rate": 2.5
+                }
+            ]
+        },
+        "AILimiter": {
+            "in-game-name": "AI Limiter",
+            "inputs": [
+                {
+                    "item": "CopperSheet",
+                    "rate": 25.0
+                },
+                {
+                    "item": "Quickwire",
+                    "rate": 100.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AILimiter",
+                    "rate": 5.0
+                }
+            ]
+        },
+        "HeavyOilResidue": {
+            "in-game-name": "Alternate: Heavy Oil Residue",
+            "inputs": [
+                {
+                    "item": "CrudeOil",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "HeavyOilResidue",
+                    "rate": 40.0
+                },
+                {
+                    "item": "PolymerResin",
+                    "rate": 20.0
+                }
+            ]
+        },
+        "HeavyFlexibleFrame": {
+            "in-game-name": "Alternate: Heavy Flexible Frame",
+            "inputs": [
+                {
+                    "item": "ModularFrame",
+                    "rate": 18.75
+                },
+                {
+                    "item": "EncasedIndustrialBeam",
+                    "rate": 11.25
+                },
+                {
+                    "item": "Rubber",
+                    "rate": 75.0
+                },
+                {
+                    "item": "Screw",
+                    "rate": 390.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "HeavyModularFrame",
+                    "rate": 3.75
+                }
+            ]
+        },
+        "Computer": {
+            "in-game-name": "Computer",
+            "inputs": [
+                {
+                    "item": "CircuitBoard",
+                    "rate": 10.0
+                },
+                {
+                    "item": "Cable",
+                    "rate": 20.0
+                },
+                {
+                    "item": "Plastic",
+                    "rate": 40.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Computer",
+                    "rate": 2.5
+                }
+            ]
+        },
+        "HeavyModularFrame": {
+            "in-game-name": "Heavy Modular Frame",
+            "inputs": [
+                {
+                    "item": "ModularFrame",
+                    "rate": 10.0
+                },
+                {
+                    "item": "SteelPipe",
+                    "rate": 40.0
+                },
+                {
+                    "item": "EncasedIndustrialBeam",
+                    "rate": 10.0
+                },
+                {
+                    "item": "Screw",
+                    "rate": 240.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "HeavyModularFrame",
+                    "rate": 2.0
+                }
+            ]
+        },
+        "ModularEngine": {
+            "in-game-name": "Modular Engine",
+            "inputs": [
+                {
+                    "item": "Motor",
+                    "rate": 2.0
+                },
+                {
+                    "item": "Rubber",
+                    "rate": 15.0
+                },
+                {
+                    "item": "SmartPlating",
+                    "rate": 2.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "ModularEngine",
+                    "rate": 1.0
+                }
+            ]
+        },
+        "AdaptiveControlUnit": {
+            "in-game-name": "Adaptive Control Unit",
+            "inputs": [
+                {
+                    "item": "AutomatedWiring",
+                    "rate": 5.0
+                },
+                {
+                    "item": "CircuitBoard",
+                    "rate": 5.0
+                },
+                {
+                    "item": "HeavyModularFrame",
+                    "rate": 1.0
+                },
+                {
+                    "item": "Computer",
+                    "rate": 2.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AdaptiveControlUnit",
+                    "rate": 1.0
+                }
+            ]
+        },
+        "FusedWire": {
+            "in-game-name": "Alternate: Fused Wire",
+            "inputs": [
+                {
+                    "item": "CopperIngot",
+                    "rate": 12.0
+                },
+                {
+                    "item": "CateriumIngot",
+                    "rate": 3.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Wire",
+                    "rate": 90.0
+                }
+            ]
+        },
+        "FlexibleFramework": {
+            "in-game-name": "Alternate: Flexible Framework",
+            "inputs": [
+                {
+                    "item": "ModularFrame",
+                    "rate": 3.75
+                },
+                {
+                    "item": "SteelBeam",
+                    "rate": 22.5
+                },
+                {
+                    "item": "Rubber",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "VersatileFramework",
+                    "rate": 7.5
+                }
+            ]
+        },
+        "ElectrodeCircuitBoard": {
+            "in-game-name": "Alternate: Electrode Circuit Board",
+            "inputs": [
+                {
+                    "item": "Rubber",
+                    "rate": 20.0
+                },
+                {
+                    "item": "PetroleumCoke",
+                    "rate": 40.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CircuitBoard",
+                    "rate": 5.0
+                }
+            ]
+        },
+        "ElectrodeAluminumScrap": {
+            "in-game-name": "Alternate: Electrode Aluminum Scrap",
+            "inputs": [
+                {
+                    "item": "AluminaSolution",
+                    "rate": 180.0
+                },
+                {
+                    "item": "PetroleumCoke",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AluminumScrap",
+                    "rate": 300.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 105.0
+                }
+            ]
+        },
+        "DilutedPackagedFuel": {
+            "in-game-name": "Alternate: Diluted Packaged Fuel",
+            "inputs": [
+                {
+                    "item": "HeavyOilResidue",
+                    "rate": 30.0
+                },
+                {
+                    "item": "PackagedWater",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PackagedFuel",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "CopperRotor": {
+            "in-game-name": "Alternate: Copper Rotor",
+            "inputs": [
+                {
+                    "item": "CopperSheet",
+                    "rate": 22.5
+                },
+                {
+                    "item": "Screw",
+                    "rate": 195.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Rotor",
+                    "rate": 11.25
+                }
+            ]
+        },
+        "ModularFrame": {
+            "in-game-name": "Modular Frame",
+            "inputs": [
+                {
+                    "item": "ReinforcedIronPlate",
+                    "rate": 3.0
+                },
+                {
+                    "item": "IronRod",
+                    "rate": 12.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "ModularFrame",
+                    "rate": 2.0
+                }
+            ]
+        },
+        "Rotor": {
+            "in-game-name": "Rotor",
+            "inputs": [
+                {
+                    "item": "IronRod",
+                    "rate": 20.0
+                },
+                {
+                    "item": "Screw",
+                    "rate": 100.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Rotor",
+                    "rate": 4.0
+                }
+            ]
+        },
+        "CopperSheet": {
+            "in-game-name": "Copper Sheet",
+            "inputs": [
+                {
+                    "item": "CopperIngot",
+                    "rate": 20.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CopperSheet",
+                    "rate": 10.0
+                }
+            ]
+        },
+        "SmartPlating": {
+            "in-game-name": "Smart Plating",
+            "inputs": [
+                {
+                    "item": "ReinforcedIronPlate",
+                    "rate": 2.0
+                },
+                {
+                    "item": "Rotor",
+                    "rate": 2.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "SmartPlating",
+                    "rate": 2.0
+                }
+            ]
+        },
+        "CopperAlloyIngot": {
+            "in-game-name": "Alternate: Copper Alloy Ingot",
+            "inputs": [
+                {
+                    "item": "CopperOre",
+                    "rate": 50.0
+                },
+                {
+                    "item": "IronOre",
+                    "rate": 50.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CopperIngot",
+                    "rate": 100.0
+                }
+            ]
+        },
+        "CokeSteelIngot": {
+            "in-game-name": "Alternate: Coke Steel Ingot",
+            "inputs": [
+                {
+                    "item": "IronOre",
+                    "rate": 75.0
+                },
+                {
+                    "item": "PetroleumCoke",
+                    "rate": 75.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "SteelIngot",
+                    "rate": 100.0
+                }
+            ]
+        },
+        "CoatedIronPlate": {
+            "in-game-name": "Alternate: Coated Iron Plate",
+            "inputs": [
+                {
+                    "item": "IronIngot",
+                    "rate": 37.5
+                },
+                {
+                    "item": "Plastic",
+                    "rate": 7.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "IronPlate",
+                    "rate": 75.0
+                }
+            ]
+        },
+        "CoatedIronCanister": {
+            "in-game-name": "Alternate: Coated Iron Canister",
+            "inputs": [
+                {
+                    "item": "IronPlate",
+                    "rate": 30.0
+                },
+                {
+                    "item": "CopperSheet",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "EmptyCanister",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "CoatedCable": {
+            "in-game-name": "Alternate: Coated Cable",
+            "inputs": [
+                {
+                    "item": "Wire",
+                    "rate": 37.5
+                },
+                {
+                    "item": "HeavyOilResidue",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Cable",
+                    "rate": 67.5
+                }
+            ]
+        },
+        "BoltedFrame": {
+            "in-game-name": "Alternate: Bolted Frame",
+            "inputs": [
+                {
+                    "item": "ReinforcedIronPlate",
+                    "rate": 7.5
+                },
+                {
+                    "item": "Screw",
+                    "rate": 140.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "ModularFrame",
+                    "rate": 5.0
+                }
+            ]
+        },
+        "AdheredIronPlate": {
+            "in-game-name": "Alternate: Adhered Iron Plate",
+            "inputs": [
+                {
+                    "item": "IronPlate",
+                    "rate": 11.25
+                },
+                {
+                    "item": "Rubber",
+                    "rate": 3.75
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "ReinforcedIronPlate",
+                    "rate": 3.75
+                }
+            ]
+        },
+        "TurboPressureMotor": {
+            "in-game-name": "Alternate: Turbo Pressure Motor",
+            "inputs": [
+                {
+                    "item": "Motor",
+                    "rate": 7.5
+                },
+                {
+                    "item": "PressureConversionCube",
+                    "rate": 1.875
+                },
+                {
+                    "item": "PackagedNitrogenGas",
+                    "rate": 45.0
+                },
+                {
+                    "item": "Stator",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "TurboMotor",
+                    "rate": 3.75
+                }
+            ]
+        },
+        "EncasedPlutoniumCell": {
+            "in-game-name": "Encased Plutonium Cell",
+            "inputs": [
+                {
+                    "item": "PlutoniumPellet",
+                    "rate": 10.0
+                },
+                {
+                    "item": "Concrete",
+                    "rate": 20.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "EncasedPlutoniumCell",
+                    "rate": 5.0
+                }
+            ]
+        },
+        "PressureConversionCube": {
+            "in-game-name": "Pressure Conversion Cube",
+            "inputs": [
+                {
+                    "item": "FusedModularFrame",
+                    "rate": 1.0
+                },
+                {
+                    "item": "RadioControlUnit",
+                    "rate": 2.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PressureConversionCube",
+                    "rate": 1.0
+                }
+            ]
+        },
+        "NitricAcid": {
+            "in-game-name": "Nitric Acid",
+            "inputs": [
+                {
+                    "item": "NitrogenGas",
+                    "rate": 120.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 30.0
+                },
+                {
+                    "item": "IronPlate",
+                    "rate": 10.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "NitricAcid",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "NonFissileUranium": {
+            "in-game-name": "Non-Fissile Uranium",
+            "inputs": [
+                {
+                    "item": "UraniumWaste",
+                    "rate": 37.5
+                },
+                {
+                    "item": "Silica",
+                    "rate": 25.0
+                },
+                {
+                    "item": "NitricAcid",
+                    "rate": 15.0
+                },
+                {
+                    "item": "SulfuricAcid",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "NonFissileUranium",
+                    "rate": 50.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 15.0
+                }
+            ]
+        },
+        "CopperPowder": {
+            "in-game-name": "Copper Powder",
+            "inputs": [
+                {
+                    "item": "CopperIngot",
+                    "rate": 300.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CopperPowder",
+                    "rate": 50.0
+                }
+            ]
+        },
+        "PlutoniumPellet": {
+            "in-game-name": "Plutonium Pellet",
+            "inputs": [
+                {
+                    "item": "NonFissileUranium",
+                    "rate": 100.0
+                },
+                {
+                    "item": "UraniumWaste",
+                    "rate": 25.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PlutoniumPellet",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "PlutoniumFuelRod": {
+            "in-game-name": "Plutonium Fuel Rod",
+            "inputs": [
+                {
+                    "item": "EncasedPlutoniumCell",
+                    "rate": 7.5
+                },
+                {
+                    "item": "SteelBeam",
+                    "rate": 4.5
+                },
+                {
+                    "item": "ElectromagneticControlRod",
+                    "rate": 1.5
+                },
+                {
+                    "item": "HeatSink",
+                    "rate": 2.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PlutoniumFuelRod",
+                    "rate": 0.25
+                }
+            ]
+        },
+        "PackagedNitricAcid": {
+            "in-game-name": "Packaged Nitric Acid",
+            "inputs": [
+                {
+                    "item": "NitricAcid",
+                    "rate": 30.0
+                },
+                {
+                    "item": "EmptyFluidTank",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PackagedNitricAcid",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "NuclearPasta": {
+            "in-game-name": "Nuclear Pasta",
+            "inputs": [
+                {
+                    "item": "CopperPowder",
+                    "rate": 100.0
+                },
+                {
+                    "item": "PressureConversionCube",
+                    "rate": 0.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "NuclearPasta",
+                    "rate": 0.5
+                }
+            ]
+        },
+        "UnpackageNitricAcid": {
+            "in-game-name": "Unpackage Nitric Acid",
+            "inputs": [
+                {
+                    "item": "PackagedNitricAcid",
+                    "rate": 20.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "NitricAcid",
+                    "rate": 20.0
+                },
+                {
+                    "item": "EmptyFluidTank",
+                    "rate": 20.0
+                }
+            ]
+        },
+        "TurboBlendFuel": {
+            "in-game-name": "Alternate: Turbo Blend Fuel",
+            "inputs": [
+                {
+                    "item": "Fuel",
+                    "rate": 15.0
+                },
+                {
+                    "item": "HeavyOilResidue",
+                    "rate": 30.0
+                },
+                {
+                    "item": "Sulfur",
+                    "rate": 22.5
+                },
+                {
+                    "item": "PetroleumCoke",
+                    "rate": 22.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Turbofuel",
+                    "rate": 45.0
+                }
+            ]
+        },
+        "EncasedUraniumCell": {
+            "in-game-name": "Encased Uranium Cell",
+            "inputs": [
+                {
+                    "item": "Uranium",
+                    "rate": 50.0
+                },
+                {
+                    "item": "Concrete",
+                    "rate": 15.0
+                },
+                {
+                    "item": "SulfuricAcid",
+                    "rate": 40.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "EncasedUraniumCell",
+                    "rate": 25.0
+                },
+                {
+                    "item": "SulfuricAcid",
+                    "rate": 10.0
+                }
+            ]
+        },
+        "CoolingSystem": {
+            "in-game-name": "Cooling System",
+            "inputs": [
+                {
+                    "item": "HeatSink",
+                    "rate": 12.0
+                },
+                {
+                    "item": "Rubber",
+                    "rate": 12.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 30.0
+                },
+                {
+                    "item": "NitrogenGas",
+                    "rate": 150.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CoolingSystem",
+                    "rate": 6.0
+                }
+            ]
+        },
+        "Battery": {
+            "in-game-name": "Battery",
+            "inputs": [
+                {
+                    "item": "SulfuricAcid",
+                    "rate": 50.0
+                },
+                {
+                    "item": "AluminaSolution",
+                    "rate": 40.0
+                },
+                {
+                    "item": "AluminumCasing",
+                    "rate": 20.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Battery",
+                    "rate": 20.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "Supercomputer": {
+            "in-game-name": "Supercomputer",
+            "inputs": [
+                {
+                    "item": "Computer",
+                    "rate": 7.5
+                },
+                {
+                    "item": "AILimiter",
+                    "rate": 3.75
+                },
+                {
+                    "item": "HighSpeedConnector",
+                    "rate": 5.625
+                },
+                {
+                    "item": "Plastic",
+                    "rate": 52.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Supercomputer",
+                    "rate": 1.875
+                }
+            ]
+        },
+        "RadioControlUnit": {
+            "in-game-name": "Radio Control Unit",
+            "inputs": [
+                {
+                    "item": "AluminumCasing",
+                    "rate": 40.0
+                },
+                {
+                    "item": "CrystalOscillator",
+                    "rate": 1.25
+                },
+                {
+                    "item": "Computer",
+                    "rate": 2.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "RadioControlUnit",
+                    "rate": 2.5
+                }
+            ]
+        },
+        "SulfuricAcid": {
+            "in-game-name": "Sulfuric Acid",
+            "inputs": [
+                {
+                    "item": "Sulfur",
+                    "rate": 50.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 50.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "SulfuricAcid",
+                    "rate": 50.0
+                }
+            ]
+        },
+        "PackagedSulfuricAcid": {
+            "in-game-name": "Packaged Sulfuric Acid",
+            "inputs": [
+                {
+                    "item": "SulfuricAcid",
+                    "rate": 40.0
+                },
+                {
+                    "item": "EmptyCanister",
+                    "rate": 40.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PackagedSulfuricAcid",
+                    "rate": 40.0
+                }
+            ]
+        },
+        "AssemblyDirectorSystem": {
+            "in-game-name": "Assembly Director System",
+            "inputs": [
+                {
+                    "item": "AdaptiveControlUnit",
+                    "rate": 1.5
+                },
+                {
+                    "item": "Supercomputer",
+                    "rate": 0.75
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AssemblyDirectorSystem",
+                    "rate": 0.75
+                }
+            ]
+        },
+        "HighSpeedConnector": {
+            "in-game-name": "High-Speed Connector",
+            "inputs": [
+                {
+                    "item": "Quickwire",
+                    "rate": 210.0
+                },
+                {
+                    "item": "Cable",
+                    "rate": 37.5
+                },
+                {
+                    "item": "CircuitBoard",
+                    "rate": 3.75
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "HighSpeedConnector",
+                    "rate": 3.75
+                }
+            ]
+        },
+        "UnpackageSulfuricAcid": {
+            "in-game-name": "Unpackage Sulfuric Acid",
+            "inputs": [
+                {
+                    "item": "PackagedSulfuricAcid",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "SulfuricAcid",
+                    "rate": 60.0
+                },
+                {
+                    "item": "EmptyCanister",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "SuperStateComputer": {
+            "in-game-name": "Alternate: Super-State Computer",
+            "inputs": [
+                {
+                    "item": "Computer",
+                    "rate": 7.2
+                },
+                {
+                    "item": "ElectromagneticControlRod",
+                    "rate": 2.4
+                },
+                {
+                    "item": "Battery",
+                    "rate": 24.0
+                },
+                {
+                    "item": "Wire",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Supercomputer",
+                    "rate": 2.4
+                }
+            ]
+        },
+        "ElectromagneticControlRod": {
+            "in-game-name": "Electromagnetic Control Rod",
+            "inputs": [
+                {
+                    "item": "Stator",
+                    "rate": 6.0
+                },
+                {
+                    "item": "AILimiter",
+                    "rate": 4.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "ElectromagneticControlRod",
+                    "rate": 4.0
+                }
+            ]
+        },
+        "UraniumFuelRod": {
+            "in-game-name": "Uranium Fuel Rod",
+            "inputs": [
+                {
+                    "item": "EncasedUraniumCell",
+                    "rate": 20.0
+                },
+                {
+                    "item": "EncasedIndustrialBeam",
+                    "rate": 1.2
+                },
+                {
+                    "item": "ElectromagneticControlRod",
+                    "rate": 2.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "UraniumFuelRod",
+                    "rate": 0.4
+                }
+            ]
+        },
+        "MagneticFieldGenerator": {
+            "in-game-name": "Magnetic Field Generator",
+            "inputs": [
+                {
+                    "item": "VersatileFramework",
+                    "rate": 2.5
+                },
+                {
+                    "item": "ElectromagneticControlRod",
+                    "rate": 1.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "MagneticFieldGenerator",
+                    "rate": 1.0
+                }
+            ]
+        },
+        "SloppyAlumina": {
+            "in-game-name": "Alternate: Sloppy Alumina",
+            "inputs": [
+                {
+                    "item": "Bauxite",
+                    "rate": 200.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 200.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AluminaSolution",
+                    "rate": 240.0
+                }
+            ]
+        },
+        "RadioControlSystem": {
+            "in-game-name": "Alternate: Radio Control System",
+            "inputs": [
+                {
+                    "item": "CrystalOscillator",
+                    "rate": 1.5
+                },
+                {
+                    "item": "CircuitBoard",
+                    "rate": 15.0
+                },
+                {
+                    "item": "AluminumCasing",
+                    "rate": 90.0
+                },
+                {
+                    "item": "Rubber",
+                    "rate": 45.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "RadioControlUnit",
+                    "rate": 4.5
+                }
+            ]
+        },
+        "PlutoniumFuelUnit": {
+            "in-game-name": "Alternate: Plutonium Fuel Unit",
+            "inputs": [
+                {
+                    "item": "EncasedPlutoniumCell",
+                    "rate": 10.0
+                },
+                {
+                    "item": "PressureConversionCube",
+                    "rate": 0.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PlutoniumFuelRod",
+                    "rate": 0.5
+                }
+            ]
+        },
+        "OCSupercomputer": {
+            "in-game-name": "Alternate: OC Supercomputer",
+            "inputs": [
+                {
+                    "item": "RadioControlUnit",
+                    "rate": 6.0
+                },
+                {
+                    "item": "CoolingSystem",
+                    "rate": 6.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Supercomputer",
+                    "rate": 3.0
+                }
+            ]
+        },
+        "HeatSink": {
+            "in-game-name": "Heat Sink",
+            "inputs": [
+                {
+                    "item": "AlcladAluminumSheet",
+                    "rate": 37.5
+                },
+                {
+                    "item": "CopperSheet",
+                    "rate": 22.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "HeatSink",
+                    "rate": 7.5
+                }
+            ]
+        },
+        "FusedModularFrame": {
+            "in-game-name": "Fused Modular Frame",
+            "inputs": [
+                {
+                    "item": "HeavyModularFrame",
+                    "rate": 1.5
+                },
+                {
+                    "item": "AluminumCasing",
+                    "rate": 75.0
+                },
+                {
+                    "item": "NitrogenGas",
+                    "rate": 37.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "FusedModularFrame",
+                    "rate": 1.5
+                }
+            ]
+        },
+        "EmptyFluidTank": {
+            "in-game-name": "Empty Fluid Tank",
+            "inputs": [
+                {
+                    "item": "AluminumIngot",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "EmptyFluidTank",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "PackagedNitrogenGas": {
+            "in-game-name": "Packaged Nitrogen Gas",
+            "inputs": [
+                {
+                    "item": "NitrogenGas",
+                    "rate": 240.0
+                },
+                {
+                    "item": "EmptyFluidTank",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PackagedNitrogenGas",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "UnpackageNitrogenGas": {
+            "in-game-name": "Unpackage Nitrogen Gas",
+            "inputs": [
+                {
+                    "item": "PackagedNitrogenGas",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "NitrogenGas",
+                    "rate": 240.0
+                },
+                {
+                    "item": "EmptyFluidTank",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "InstantScrap": {
+            "in-game-name": "Alternate: Instant Scrap",
+            "inputs": [
+                {
+                    "item": "Bauxite",
+                    "rate": 150.0
+                },
+                {
+                    "item": "Coal",
+                    "rate": 100.0
+                },
+                {
+                    "item": "SulfuricAcid",
+                    "rate": 50.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AluminumScrap",
+                    "rate": 300.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 50.0
+                }
+            ]
+        },
+        "InstantPlutoniumCell": {
+            "in-game-name": "Alternate: Instant Plutonium Cell",
+            "inputs": [
+                {
+                    "item": "NonFissileUranium",
+                    "rate": 75.0
+                },
+                {
+                    "item": "AluminumCasing",
+                    "rate": 10.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "EncasedPlutoniumCell",
+                    "rate": 10.0
+                }
+            ]
+        },
+        "HeatFusedFrame": {
+            "in-game-name": "Alternate: Heat-Fused Frame",
+            "inputs": [
+                {
+                    "item": "HeavyModularFrame",
+                    "rate": 3.0
+                },
+                {
+                    "item": "AluminumIngot",
+                    "rate": 150.0
+                },
+                {
+                    "item": "NitricAcid",
+                    "rate": 24.0
+                },
+                {
+                    "item": "Fuel",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "FusedModularFrame",
+                    "rate": 3.0
+                }
+            ]
+        },
+        "FertileUranium": {
+            "in-game-name": "Alternate: Fertile Uranium",
+            "inputs": [
+                {
+                    "item": "Uranium",
+                    "rate": 25.0
+                },
+                {
+                    "item": "UraniumWaste",
+                    "rate": 25.0
+                },
+                {
+                    "item": "NitricAcid",
+                    "rate": 15.0
+                },
+                {
+                    "item": "SulfuricAcid",
+                    "rate": 25.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "NonFissileUranium",
+                    "rate": 100.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 40.0
+                }
+            ]
+        },
+        "ElectricMotor": {
+            "in-game-name": "Alternate: Electric Motor",
+            "inputs": [
+                {
+                    "item": "ElectromagneticControlRod",
+                    "rate": 3.75
+                },
+                {
+                    "item": "Rotor",
+                    "rate": 7.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Motor",
+                    "rate": 7.5
+                }
+            ]
+        },
+        "DilutedFuel": {
+            "in-game-name": "Alternate: Diluted Fuel",
+            "inputs": [
+                {
+                    "item": "HeavyOilResidue",
+                    "rate": 50.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 100.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Fuel",
+                    "rate": 100.0
+                }
+            ]
+        },
+        "CoolingDevice": {
+            "in-game-name": "Alternate: Cooling Device",
+            "inputs": [
+                {
+                    "item": "HeatSink",
+                    "rate": 10.0
+                },
+                {
+                    "item": "Motor",
+                    "rate": 2.5
+                },
+                {
+                    "item": "NitrogenGas",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CoolingSystem",
+                    "rate": 5.0
+                }
+            ]
+        },
+        "ClassicBattery": {
+            "in-game-name": "Alternate: Classic Battery",
+            "inputs": [
+                {
+                    "item": "Sulfur",
+                    "rate": 45.0
+                },
+                {
+                    "item": "AlcladAluminumSheet",
+                    "rate": 52.5
+                },
+                {
+                    "item": "Plastic",
+                    "rate": 60.0
+                },
+                {
+                    "item": "Wire",
+                    "rate": 90.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Battery",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "AutomatedMiner": {
+            "in-game-name": "Alternate: Automated Miner",
+            "inputs": [
+                {
+                    "item": "SteelPipe",
+                    "rate": 4.0
+                },
+                {
+                    "item": "IronPlate",
+                    "rate": 4.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PortableMiner",
+                    "rate": 1.0
+                }
+            ]
+        },
+        "AlcladCasing": {
+            "in-game-name": "Alternate: Alclad Casing",
+            "inputs": [
+                {
+                    "item": "AluminumIngot",
+                    "rate": 150.0
+                },
+                {
+                    "item": "CopperIngot",
+                    "rate": 75.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AluminumCasing",
+                    "rate": 112.5
+                }
+            ]
+        },
+        "MoldedSteelPipe": {
+            "in-game-name": "Alternate: Molded Steel Pipe",
+            "inputs": [
+                {
+                    "item": "SteelIngot",
+                    "rate": 50.0
+                },
+                {
+                    "item": "Concrete",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "SteelPipe",
+                    "rate": 50.0
+                }
+            ]
+        },
+        "IronPipe": {
+            "in-game-name": "Alternate: Iron Pipe",
+            "inputs": [
+                {
+                    "item": "IronIngot",
+                    "rate": 100.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "SteelPipe",
+                    "rate": 25.0
+                }
+            ]
+        },
+        "SteelCastPlate": {
+            "in-game-name": "Alternate: Steel Cast Plate",
+            "inputs": [
+                {
+                    "item": "IronIngot",
+                    "rate": 15.0
+                },
+                {
+                    "item": "SteelIngot",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "IronPlate",
+                    "rate": 45.0
+                }
+            ]
+        },
+        "MoldedBeam": {
+            "in-game-name": "Alternate: Molded Beam",
+            "inputs": [
+                {
+                    "item": "SteelIngot",
+                    "rate": 120.0
+                },
+                {
+                    "item": "Concrete",
+                    "rate": 80.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "SteelBeam",
+                    "rate": 45.0
+                }
+            ]
+        },
+        "AluminumBeam": {
+            "in-game-name": "Alternate: Aluminum Beam",
+            "inputs": [
+                {
+                    "item": "AluminumIngot",
+                    "rate": 22.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "SteelBeam",
+                    "rate": 22.5
+                }
+            ]
+        },
+        "AluminumRod": {
+            "in-game-name": "Alternate: Aluminum Rod",
+            "inputs": [
+                {
+                    "item": "AluminumIngot",
+                    "rate": 7.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "IronRod",
+                    "rate": 52.5
+                }
+            ]
+        },
+        "PlasticAILimiter": {
+            "in-game-name": "Alternate: Plastic AI Limiter",
+            "inputs": [
+                {
+                    "item": "Quickwire",
+                    "rate": 120.0
+                },
+                {
+                    "item": "Plastic",
+                    "rate": 28.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AILimiter",
+                    "rate": 8.0
+                }
+            ]
+        },
+        "DistilledSilica": {
+            "in-game-name": "Alternate: Distilled Silica",
+            "inputs": [
+                {
+                    "item": "DissolvedSilica",
+                    "rate": 120.0
+                },
+                {
+                    "item": "Limestone",
+                    "rate": 50.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 100.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Silica",
+                    "rate": 270.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 80.0
+                }
+            ]
+        },
+        "QuartzPurification": {
+            "in-game-name": "Alternate: Quartz Purification",
+            "inputs": [
+                {
+                    "item": "RawQuartz",
+                    "rate": 120.0
+                },
+                {
+                    "item": "NitricAcid",
+                    "rate": 10.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "QuartzCrystal",
+                    "rate": 75.0
+                },
+                {
+                    "item": "DissolvedSilica",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "FusedQuartzCrystal": {
+            "in-game-name": "Alternate: Fused Quartz Crystal",
+            "inputs": [
+                {
+                    "item": "RawQuartz",
+                    "rate": 75.0
+                },
+                {
+                    "item": "Coal",
+                    "rate": 36.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "QuartzCrystal",
+                    "rate": 54.0
+                }
+            ]
+        },
+        "LeachedIroningot": {
+            "in-game-name": "Alternate: Leached Iron ingot",
+            "inputs": [
+                {
+                    "item": "IronOre",
+                    "rate": 50.0
+                },
+                {
+                    "item": "SulfuricAcid",
+                    "rate": 10.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "IronIngot",
+                    "rate": 100.0
+                }
+            ]
+        },
+        "BasicIronIngot": {
+            "in-game-name": "Alternate: Basic Iron Ingot",
+            "inputs": [
+                {
+                    "item": "IronOre",
+                    "rate": 25.0
+                },
+                {
+                    "item": "Limestone",
+                    "rate": 40.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "IronIngot",
+                    "rate": 50.0
+                }
+            ]
+        },
+        "TemperedCopperIngot": {
+            "in-game-name": "Alternate: Tempered Copper Ingot",
+            "inputs": [
+                {
+                    "item": "CopperOre",
+                    "rate": 25.0
+                },
+                {
+                    "item": "PetroleumCoke",
+                    "rate": 40.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CopperIngot",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "LeachedCopperIngot": {
+            "in-game-name": "Alternate: Leached Copper Ingot",
+            "inputs": [
+                {
+                    "item": "CopperOre",
+                    "rate": 45.0
+                },
+                {
+                    "item": "SulfuricAcid",
+                    "rate": 25.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CopperIngot",
+                    "rate": 110.0
+                }
+            ]
+        },
+        "TemperedCateriumIngot": {
+            "in-game-name": "Alternate: Tempered Caterium Ingot",
+            "inputs": [
+                {
+                    "item": "CateriumOre",
+                    "rate": 45.0
+                },
+                {
+                    "item": "PetroleumCoke",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CateriumIngot",
+                    "rate": 22.5
+                }
+            ]
+        },
+        "LeachedCateriumIngot": {
+            "in-game-name": "Alternate: Leached Caterium Ingot",
+            "inputs": [
+                {
+                    "item": "CateriumOre",
+                    "rate": 54.0
+                },
+                {
+                    "item": "SulfuricAcid",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CateriumIngot",
+                    "rate": 36.0
+                }
+            ]
+        },
+        "CateriumWire": {
+            "in-game-name": "Alternate: Caterium Wire",
+            "inputs": [
+                {
+                    "item": "CateriumIngot",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Wire",
+                    "rate": 120.0
+                }
+            ]
+        },
+        "IronWire": {
+            "in-game-name": "Alternate: Iron Wire",
+            "inputs": [
+                {
+                    "item": "IronIngot",
+                    "rate": 12.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Wire",
+                    "rate": 22.5
+                }
+            ]
+        },
+        "InfusedUraniumCell": {
+            "in-game-name": "Alternate: Infused Uranium Cell",
+            "inputs": [
+                {
+                    "item": "Uranium",
+                    "rate": 25.0
+                },
+                {
+                    "item": "Silica",
+                    "rate": 15.0
+                },
+                {
+                    "item": "Sulfur",
+                    "rate": 25.0
+                },
+                {
+                    "item": "Quickwire",
+                    "rate": 75.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "EncasedUraniumCell",
+                    "rate": 20.0
+                }
+            ]
+        },
+        "CateriumIngot": {
+            "in-game-name": "Caterium Ingot",
+            "inputs": [
+                {
+                    "item": "CateriumOre",
+                    "rate": 45.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CateriumIngot",
+                    "rate": 15.0
+                }
+            ]
+        },
+        "TurboElectricMotor": {
+            "in-game-name": "Alternate: Turbo Electric Motor",
+            "inputs": [
+                {
+                    "item": "Motor",
+                    "rate": 6.5625
+                },
+                {
+                    "item": "RadioControlUnit",
+                    "rate": 8.4375
+                },
+                {
+                    "item": "ElectromagneticControlRod",
+                    "rate": 4.6875
+                },
+                {
+                    "item": "Rotor",
+                    "rate": 6.5625
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "TurboMotor",
+                    "rate": 2.8125
+                }
+            ]
+        },
+        "TurboMotor": {
+            "in-game-name": "Turbo Motor",
+            "inputs": [
+                {
+                    "item": "CoolingSystem",
+                    "rate": 7.5
+                },
+                {
+                    "item": "RadioControlUnit",
+                    "rate": 3.75
+                },
+                {
+                    "item": "Motor",
+                    "rate": 7.5
+                },
+                {
+                    "item": "Rubber",
+                    "rate": 45.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "TurboMotor",
+                    "rate": 1.875
+                }
+            ]
+        },
+        "ThermalPropulsionRocket": {
+            "in-game-name": "Thermal Propulsion Rocket",
+            "inputs": [
+                {
+                    "item": "ModularEngine",
+                    "rate": 2.5
+                },
+                {
+                    "item": "TurboMotor",
+                    "rate": 1.0
+                },
+                {
+                    "item": "CoolingSystem",
+                    "rate": 3.0
+                },
+                {
+                    "item": "FusedModularFrame",
+                    "rate": 1.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "ThermalPropulsionRocket",
+                    "rate": 1.0
+                }
+            ]
+        },
+        "QuickwireStator": {
+            "in-game-name": "Alternate: Quickwire Stator",
+            "inputs": [
+                {
+                    "item": "SteelPipe",
+                    "rate": 16.0
+                },
+                {
+                    "item": "Quickwire",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Stator",
+                    "rate": 8.0
+                }
+            ]
+        },
+        "CheapSilica": {
+            "in-game-name": "Alternate: Cheap Silica",
+            "inputs": [
+                {
+                    "item": "RawQuartz",
+                    "rate": 22.5
+                },
+                {
+                    "item": "Limestone",
+                    "rate": 37.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Silica",
+                    "rate": 52.5
+                }
+            ]
+        },
+        "SteelScrew": {
+            "in-game-name": "Alternate: Steel Screw",
+            "inputs": [
+                {
+                    "item": "SteelBeam",
+                    "rate": 5.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Screw",
+                    "rate": 260.0
+                }
+            ]
+        },
+        "CastScrew": {
+            "in-game-name": "Alternate: Cast Screw",
+            "inputs": [
+                {
+                    "item": "IronIngot",
+                    "rate": 12.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Screw",
+                    "rate": 50.0
+                }
+            ]
+        },
+        "SteelRotor": {
+            "in-game-name": "Alternate: Steel Rotor",
+            "inputs": [
+                {
+                    "item": "SteelPipe",
+                    "rate": 10.0
+                },
+                {
+                    "item": "Wire",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Rotor",
+                    "rate": 5.0
+                }
+            ]
+        },
+        "EncasedIndustrialPipe": {
+            "in-game-name": "Alternate: Encased Industrial Pipe",
+            "inputs": [
+                {
+                    "item": "SteelPipe",
+                    "rate": 24.0
+                },
+                {
+                    "item": "Concrete",
+                    "rate": 20.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "EncasedIndustrialBeam",
+                    "rate": 4.0
+                }
+            ]
+        },
+        "StitchedIronPlate": {
+            "in-game-name": "Alternate: Stitched Iron Plate",
+            "inputs": [
+                {
+                    "item": "IronPlate",
+                    "rate": 18.75
+                },
+                {
+                    "item": "Wire",
+                    "rate": 37.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "ReinforcedIronPlate",
+                    "rate": 5.625
+                }
+            ]
+        },
+        "BoltedIronPlate": {
+            "in-game-name": "Alternate: Bolted Iron Plate",
+            "inputs": [
+                {
+                    "item": "IronPlate",
+                    "rate": 90.0
+                },
+                {
+                    "item": "Screw",
+                    "rate": 250.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "ReinforcedIronPlate",
+                    "rate": 15.0
+                }
+            ]
+        },
+        "RadioConnectionUnit": {
+            "in-game-name": "Alternate: Radio Connection Unit",
+            "inputs": [
+                {
+                    "item": "HeatSink",
+                    "rate": 15.0
+                },
+                {
+                    "item": "HighSpeedConnector",
+                    "rate": 7.5
+                },
+                {
+                    "item": "QuartzCrystal",
+                    "rate": 45.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "RadioControlUnit",
+                    "rate": 3.75
+                }
+            ]
+        },
+        "FusedQuickwire": {
+            "in-game-name": "Alternate: Fused Quickwire",
+            "inputs": [
+                {
+                    "item": "CateriumIngot",
+                    "rate": 7.5
+                },
+                {
+                    "item": "CopperIngot",
+                    "rate": 37.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Quickwire",
+                    "rate": 90.0
+                }
+            ]
+        },
+        "RecycledPlastic": {
+            "in-game-name": "Alternate: Recycled Plastic",
+            "inputs": [
+                {
+                    "item": "Rubber",
+                    "rate": 30.0
+                },
+                {
+                    "item": "Fuel",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Plastic",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "UraniumFuelUnit": {
+            "in-game-name": "Alternate: Uranium Fuel Unit",
+            "inputs": [
+                {
+                    "item": "EncasedUraniumCell",
+                    "rate": 20.0
+                },
+                {
+                    "item": "ElectromagneticControlRod",
+                    "rate": 2.0
+                },
+                {
+                    "item": "CrystalOscillator",
+                    "rate": 0.6
+                },
+                {
+                    "item": "Rotor",
+                    "rate": 2.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "UraniumFuelRod",
+                    "rate": 0.6
+                }
+            ]
+        },
+        "RigorMotor": {
+            "in-game-name": "Alternate: Rigor Motor",
+            "inputs": [
+                {
+                    "item": "Rotor",
+                    "rate": 3.75
+                },
+                {
+                    "item": "Stator",
+                    "rate": 3.75
+                },
+                {
+                    "item": "CrystalOscillator",
+                    "rate": 1.25
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Motor",
+                    "rate": 7.5
+                }
+            ]
+        },
+        "SteeledFrame": {
+            "in-game-name": "Alternate: Steeled Frame",
+            "inputs": [
+                {
+                    "item": "ReinforcedIronPlate",
+                    "rate": 2.0
+                },
+                {
+                    "item": "SteelPipe",
+                    "rate": 10.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "ModularFrame",
+                    "rate": 3.0
+                }
+            ]
+        },
+        "CompactedSteelIngot": {
+            "in-game-name": "Alternate: Compacted Steel Ingot",
+            "inputs": [
+                {
+                    "item": "IronOre",
+                    "rate": 5.0
+                },
+                {
+                    "item": "CompactedCoal",
+                    "rate": 2.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "SteelIngot",
+                    "rate": 10.0
+                }
+            ]
+        },
+        "SolidSteelIngot": {
+            "in-game-name": "Alternate: Solid Steel Ingot",
+            "inputs": [
+                {
+                    "item": "IronIngot",
+                    "rate": 40.0
+                },
+                {
+                    "item": "Coal",
+                    "rate": 40.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "SteelIngot",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "IronAlloyIngot": {
+            "in-game-name": "Alternate: Iron Alloy Ingot",
+            "inputs": [
+                {
+                    "item": "IronOre",
+                    "rate": 40.0
+                },
+                {
+                    "item": "CopperOre",
+                    "rate": 10.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "IronIngot",
+                    "rate": 75.0
+                }
+            ]
+        },
+        "SiliconHighSpeedConnector": {
+            "in-game-name": "Alternate: Silicon High-Speed Connector",
+            "inputs": [
+                {
+                    "item": "Quickwire",
+                    "rate": 90.0
+                },
+                {
+                    "item": "Silica",
+                    "rate": 37.5
+                },
+                {
+                    "item": "CircuitBoard",
+                    "rate": 3.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "HighSpeedConnector",
+                    "rate": 3.0
+                }
+            ]
+        },
+        "HeavyEncasedFrame": {
+            "in-game-name": "Alternate: Heavy Encased Frame",
+            "inputs": [
+                {
+                    "item": "ModularFrame",
+                    "rate": 7.5
+                },
+                {
+                    "item": "EncasedIndustrialBeam",
+                    "rate": 9.375
+                },
+                {
+                    "item": "SteelPipe",
+                    "rate": 33.75
+                },
+                {
+                    "item": "Concrete",
+                    "rate": 20.625
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "HeavyModularFrame",
+                    "rate": 2.8125
+                }
+            ]
+        },
+        "HeatExchanger": {
+            "in-game-name": "Alternate: Heat Exchanger",
+            "inputs": [
+                {
+                    "item": "AluminumCasing",
+                    "rate": 30.0
+                },
+                {
+                    "item": "Rubber",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "HeatSink",
+                    "rate": 10.0
+                }
+            ]
+        },
+        "FineBlackPowder": {
+            "in-game-name": "Alternate: Fine Black Powder",
+            "inputs": [
+                {
+                    "item": "Sulfur",
+                    "rate": 7.5
+                },
+                {
+                    "item": "CompactedCoal",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "BlackPowder",
+                    "rate": 45.0
+                }
+            ]
+        },
+        "ElectromagneticConnectionRod": {
+            "in-game-name": "Alternate: Electromagnetic Connection Rod",
+            "inputs": [
+                {
+                    "item": "Stator",
+                    "rate": 8.0
+                },
+                {
+                    "item": "HighSpeedConnector",
+                    "rate": 4.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "ElectromagneticControlRod",
+                    "rate": 8.0
+                }
+            ]
+        },
+        "InsulatedCrystalOscillator": {
+            "in-game-name": "Alternate: Insulated Crystal Oscillator",
+            "inputs": [
+                {
+                    "item": "QuartzCrystal",
+                    "rate": 18.75
+                },
+                {
+                    "item": "Rubber",
+                    "rate": 13.125
+                },
+                {
+                    "item": "AILimiter",
+                    "rate": 1.875
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CrystalOscillator",
+                    "rate": 1.875
+                }
+            ]
+        },
+        "FineConcrete": {
+            "in-game-name": "Alternate: Fine Concrete",
+            "inputs": [
+                {
+                    "item": "Silica",
+                    "rate": 15.0
+                },
+                {
+                    "item": "Limestone",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Concrete",
+                    "rate": 50.0
+                }
+            ]
+        },
+        "CrystalComputer": {
+            "in-game-name": "Alternate: Crystal Computer",
+            "inputs": [
+                {
+                    "item": "CircuitBoard",
+                    "rate": 5.0
+                },
+                {
+                    "item": "CrystalOscillator",
+                    "rate": 1.6666666666666667
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Computer",
+                    "rate": 3.3333333333333335
+                }
+            ]
+        },
+        "CateriumComputer": {
+            "in-game-name": "Alternate: Caterium Computer",
+            "inputs": [
+                {
+                    "item": "CircuitBoard",
+                    "rate": 15.0
+                },
+                {
+                    "item": "Quickwire",
+                    "rate": 52.5
+                },
+                {
+                    "item": "Rubber",
+                    "rate": 22.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Computer",
+                    "rate": 3.75
+                }
+            ]
+        },
+        "CateriumCircuitBoard": {
+            "in-game-name": "Alternate: Caterium Circuit Board",
+            "inputs": [
+                {
+                    "item": "Plastic",
+                    "rate": 12.5
+                },
+                {
+                    "item": "Quickwire",
+                    "rate": 37.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CircuitBoard",
+                    "rate": 8.75
+                }
+            ]
+        },
+        "SiliconCircuitBoard": {
+            "in-game-name": "Alternate: Silicon Circuit Board",
+            "inputs": [
+                {
+                    "item": "CopperSheet",
+                    "rate": 27.5
+                },
+                {
+                    "item": "Silica",
+                    "rate": 27.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CircuitBoard",
+                    "rate": 12.5
+                }
+            ]
+        },
+        "QuickwireCable": {
+            "in-game-name": "Alternate: Quickwire Cable",
+            "inputs": [
+                {
+                    "item": "Quickwire",
+                    "rate": 7.5
+                },
+                {
+                    "item": "Rubber",
+                    "rate": 5.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Cable",
+                    "rate": 27.5
+                }
+            ]
+        },
+        "InsulatedCable": {
+            "in-game-name": "Alternate: Insulated Cable",
+            "inputs": [
+                {
+                    "item": "Wire",
+                    "rate": 45.0
+                },
+                {
+                    "item": "Rubber",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Cable",
+                    "rate": 100.0
+                }
+            ]
+        },
+        "Ficsonium": {
+            "in-game-name": "Ficsonium",
+            "inputs": [
+                {
+                    "item": "PlutoniumWaste",
+                    "rate": 10.0
+                },
+                {
+                    "item": "SingularityCell",
+                    "rate": 10.0
+                },
+                {
+                    "item": "DarkMatterResidue",
+                    "rate": 200.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Ficsonium",
+                    "rate": 10.0
+                }
+            ]
+        },
+        "FicsoniumFuelRod": {
+            "in-game-name": "Ficsonium Fuel Rod",
+            "inputs": [
+                {
+                    "item": "Ficsonium",
+                    "rate": 5.0
+                },
+                {
+                    "item": "ElectromagneticControlRod",
+                    "rate": 5.0
+                },
+                {
+                    "item": "FicsiteTrigon",
+                    "rate": 100.0
+                },
+                {
+                    "item": "ExcitedPhotonicMatter",
+                    "rate": 50.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "FicsoniumFuelRod",
+                    "rate": 2.5
+                },
+                {
+                    "item": "DarkMatterResidue",
+                    "rate": 50.0
+                }
+            ]
+        },
+        "SingularityCell": {
+            "in-game-name": "Singularity Cell",
+            "inputs": [
+                {
+                    "item": "NuclearPasta",
+                    "rate": 1.0
+                },
+                {
+                    "item": "DarkMatterCrystal",
+                    "rate": 20.0
+                },
+                {
+                    "item": "IronPlate",
+                    "rate": 100.0
+                },
+                {
+                    "item": "Concrete",
+                    "rate": 200.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "SingularityCell",
+                    "rate": 10.0
+                }
+            ]
+        },
+        "BallisticWarpDrive": {
+            "in-game-name": "Ballistic Warp Drive",
+            "inputs": [
+                {
+                    "item": "ThermalPropulsionRocket",
+                    "rate": 1.0
+                },
+                {
+                    "item": "SingularityCell",
+                    "rate": 5.0
+                },
+                {
+                    "item": "SuperpositionOscillator",
+                    "rate": 2.0
+                },
+                {
+                    "item": "DarkMatterCrystal",
+                    "rate": 40.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "BallisticWarpDrive",
+                    "rate": 1.0
+                }
+            ]
+        },
+        "Hoverpack": {
+            "in-game-name": "Hoverpack",
+            "inputs": [
+                {
+                    "item": "Motor",
+                    "rate": 4.0
+                },
+                {
+                    "item": "HeavyModularFrame",
+                    "rate": 2.0
+                },
+                {
+                    "item": "Computer",
+                    "rate": 4.0
+                },
+                {
+                    "item": "AlcladAluminumSheet",
+                    "rate": 20.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Hoverpack",
+                    "rate": 0.5
+                }
+            ]
+        },
+        "IodineInfusedFilter": {
+            "in-game-name": "Iodine-Infused Filter",
+            "inputs": [
+                {
+                    "item": "GasFilter",
+                    "rate": 3.75
+                },
+                {
+                    "item": "Quickwire",
+                    "rate": 30.0
+                },
+                {
+                    "item": "AluminumCasing",
+                    "rate": 3.75
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "IodineInfusedFilter",
+                    "rate": 3.75
+                }
+            ]
+        },
+        "HazmatSuit": {
+            "in-game-name": "Hazmat Suit",
+            "inputs": [
+                {
+                    "item": "Rubber",
+                    "rate": 25.0
+                },
+                {
+                    "item": "Plastic",
+                    "rate": 25.0
+                },
+                {
+                    "item": "AlcladAluminumSheet",
+                    "rate": 25.0
+                },
+                {
+                    "item": "Fabric",
+                    "rate": 25.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "HazmatSuit",
+                    "rate": 0.5
+                }
+            ]
+        },
+        "Jetpack": {
+            "in-game-name": "Jetpack",
+            "inputs": [
+                {
+                    "item": "Motor",
+                    "rate": 5.0
+                },
+                {
+                    "item": "SteelPipe",
+                    "rate": 10.0
+                },
+                {
+                    "item": "IronPlate",
+                    "rate": 25.0
+                },
+                {
+                    "item": "Wire",
+                    "rate": 50.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Jetpack",
+                    "rate": 1.0
+                }
+            ]
+        },
+        "Quickwire": {
+            "in-game-name": "Quickwire",
+            "inputs": [
+                {
+                    "item": "CateriumIngot",
+                    "rate": 12.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Quickwire",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "XenoBasher": {
+            "in-game-name": "Xeno-Basher",
+            "inputs": [
+                {
+                    "item": "XenoZapper",
+                    "rate": 1.5
+                },
+                {
+                    "item": "ModularFrame",
+                    "rate": 3.75
+                },
+                {
+                    "item": "IronRod",
+                    "rate": 18.75
+                },
+                {
+                    "item": "Wire",
+                    "rate": 375.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "XenoBasher",
+                    "rate": 0.75
+                }
+            ]
+        },
+        "SolidBiofuel": {
+            "in-game-name": "Solid Biofuel",
+            "inputs": [
+                {
+                    "item": "Biomass",
+                    "rate": 120.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "SolidBiofuel",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "Chainsaw": {
+            "in-game-name": "Chainsaw",
+            "inputs": [
+                {
+                    "item": "ReinforcedIronPlate",
+                    "rate": 5.0
+                },
+                {
+                    "item": "IronRod",
+                    "rate": 25.0
+                },
+                {
+                    "item": "Screw",
+                    "rate": 160.0
+                },
+                {
+                    "item": "Cable",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Chainsaw",
+                    "rate": 1.0
+                }
+            ]
+        },
+        "HogProtein": {
+            "in-game-name": "Hog Protein",
+            "inputs": [
+                {
+                    "item": "HogRemains",
+                    "rate": 20.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AlienProtein",
+                    "rate": 20.0
+                }
+            ]
+        },
+        "SpitterProtein": {
+            "in-game-name": "Spitter Protein",
+            "inputs": [
+                {
+                    "item": "SpitterRemains",
+                    "rate": 20.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AlienProtein",
+                    "rate": 20.0
+                }
+            ]
+        },
+        "BiomassFromMycelia": {
+            "in-game-name": "Biomass (Mycelia)",
+            "inputs": [
+                {
+                    "item": "Mycelia",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Biomass",
+                    "rate": 150.0
+                }
+            ]
+        },
+        "PowerShardFrom1": {
+            "in-game-name": "Power Shard (1)",
+            "inputs": [
+                {
+                    "item": "BluePowerSlug",
+                    "rate": 7.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PowerShard",
+                    "rate": 7.5
+                }
+            ]
+        },
+        "BlackPowder": {
+            "in-game-name": "Black Powder",
+            "inputs": [
+                {
+                    "item": "Coal",
+                    "rate": 15.0
+                },
+                {
+                    "item": "Sulfur",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "BlackPowder",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "AlienPowerMatrix": {
+            "in-game-name": "Alien Power Matrix",
+            "inputs": [
+                {
+                    "item": "SAMFluctuator",
+                    "rate": 12.5
+                },
+                {
+                    "item": "PowerShard",
+                    "rate": 7.5
+                },
+                {
+                    "item": "SuperpositionOscillator",
+                    "rate": 7.5
+                },
+                {
+                    "item": "ExcitedPhotonicMatter",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AlienPowerMatrix",
+                    "rate": 2.5
+                },
+                {
+                    "item": "DarkMatterResidue",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "ObjectScanner": {
+            "in-game-name": "Object Scanner",
+            "inputs": [
+                {
+                    "item": "ReinforcedIronPlate",
+                    "rate": 6.0
+                },
+                {
+                    "item": "Wire",
+                    "rate": 30.0
+                },
+                {
+                    "item": "Screw",
+                    "rate": 75.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "ObjectScanner",
+                    "rate": 1.5
+                }
+            ]
+        },
+        "StingerProtein": {
+            "in-game-name": "Stinger Protein",
+            "inputs": [
+                {
+                    "item": "StingerRemains",
+                    "rate": 20.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AlienProtein",
+                    "rate": 20.0
+                }
+            ]
+        },
+        "HatcherProtein": {
+            "in-game-name": "Hatcher Protein",
+            "inputs": [
+                {
+                    "item": "HatcherRemains",
+                    "rate": 20.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AlienProtein",
+                    "rate": 20.0
+                }
+            ]
+        },
+        "AlienDNACapsule": {
+            "in-game-name": "Alien DNA Capsule",
+            "inputs": [
+                {
+                    "item": "AlienProtein",
+                    "rate": 10.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "AlienDNACapsule",
+                    "rate": 10.0
+                }
+            ]
+        },
+        "BiomassFromAlienProtein": {
+            "in-game-name": "Biomass (Alien Protein)",
+            "inputs": [
+                {
+                    "item": "AlienProtein",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Biomass",
+                    "rate": 1500.0
+                }
+            ]
+        },
+        "ProteinInhaler": {
+            "in-game-name": "Protein Inhaler",
+            "inputs": [
+                {
+                    "item": "AlienProtein",
+                    "rate": 3.0
+                },
+                {
+                    "item": "BerylNut",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "MedicinalInhaler",
+                    "rate": 3.0
+                }
+            ]
+        },
+        "IronRebar": {
+            "in-game-name": "Iron Rebar",
+            "inputs": [
+                {
+                    "item": "IronRod",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "IronRebar",
+                    "rate": 15.0
+                }
+            ]
+        },
+        "RebarGun": {
+            "in-game-name": "Rebar Gun",
+            "inputs": [
+                {
+                    "item": "ReinforcedIronPlate",
+                    "rate": 6.0
+                },
+                {
+                    "item": "IronRod",
+                    "rate": 16.0
+                },
+                {
+                    "item": "Screw",
+                    "rate": 100.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "RebarGun",
+                    "rate": 1.0
+                }
+            ]
+        },
+        "HomingRifleAmmo": {
+            "in-game-name": "Homing Rifle Ammo",
+            "inputs": [
+                {
+                    "item": "RifleAmmo",
+                    "rate": 50.0
+                },
+                {
+                    "item": "HighSpeedConnector",
+                    "rate": 2.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "HomingRifleAmmo",
+                    "rate": 25.0
+                }
+            ]
+        },
+        "BladeRunners": {
+            "in-game-name": "Blade Runners",
+            "inputs": [
+                {
+                    "item": "Silica",
+                    "rate": 20.0
+                },
+                {
+                    "item": "ModularFrame",
+                    "rate": 3.0
+                },
+                {
+                    "item": "Rotor",
+                    "rate": 3.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "BladeRunners",
+                    "rate": 1.0
+                }
+            ]
+        },
+        "StunRebar": {
+            "in-game-name": "Stun Rebar",
+            "inputs": [
+                {
+                    "item": "IronRebar",
+                    "rate": 10.0
+                },
+                {
+                    "item": "Quickwire",
+                    "rate": 50.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "StunRebar",
+                    "rate": 10.0
+                }
+            ]
+        },
+        "Zipline": {
+            "in-game-name": "Zipline",
+            "inputs": [
+                {
+                    "item": "XenoZapper",
+                    "rate": 1.5
+                },
+                {
+                    "item": "Quickwire",
+                    "rate": 45.0
+                },
+                {
+                    "item": "IronRod",
+                    "rate": 4.5
+                },
+                {
+                    "item": "Cable",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Zipline",
+                    "rate": 1.5
+                }
+            ]
+        },
+        "GasFilter": {
+            "in-game-name": "Gas Filter",
+            "inputs": [
+                {
+                    "item": "Fabric",
+                    "rate": 15.0
+                },
+                {
+                    "item": "Coal",
+                    "rate": 30.0
+                },
+                {
+                    "item": "IronPlate",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "GasFilter",
+                    "rate": 7.5
+                }
+            ]
+        },
+        "GasMask": {
+            "in-game-name": "Gas Mask",
+            "inputs": [
+                {
+                    "item": "Fabric",
+                    "rate": 50.0
+                },
+                {
+                    "item": "CopperSheet",
+                    "rate": 10.0
+                },
+                {
+                    "item": "SteelPipe",
+                    "rate": 10.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "GasMask",
+                    "rate": 1.0
+                }
+            ]
+        },
+        "GasNobelisk": {
+            "in-game-name": "Gas Nobelisk",
+            "inputs": [
+                {
+                    "item": "Nobelisk",
+                    "rate": 5.0
+                },
+                {
+                    "item": "Biomass",
+                    "rate": 50.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "GasNobelisk",
+                    "rate": 5.0
+                }
+            ]
+        },
+        "TherapeuticInhaler": {
+            "in-game-name": "Therapeutic Inhaler",
+            "inputs": [
+                {
+                    "item": "Mycelia",
+                    "rate": 45.0
+                },
+                {
+                    "item": "AlienProtein",
+                    "rate": 3.0
+                },
+                {
+                    "item": "BaconAgaric",
+                    "rate": 3.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "MedicinalInhaler",
+                    "rate": 3.0
+                }
+            ]
+        },
+        "VitaminInhaler": {
+            "in-game-name": "Vitamin Inhaler",
+            "inputs": [
+                {
+                    "item": "Mycelia",
+                    "rate": 30.0
+                },
+                {
+                    "item": "Paleberry",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "MedicinalInhaler",
+                    "rate": 3.0
+                }
+            ]
+        },
+        "Parachute": {
+            "in-game-name": "Parachute",
+            "inputs": [
+                {
+                    "item": "Fabric",
+                    "rate": 30.0
+                },
+                {
+                    "item": "Cable",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Parachute",
+                    "rate": 1.5
+                }
+            ]
+        },
+        "PolyesterFabric": {
+            "in-game-name": "Alternate: Polyester Fabric",
+            "inputs": [
+                {
+                    "item": "PolymerResin",
+                    "rate": 30.0
+                },
+                {
+                    "item": "Water",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Fabric",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "Fabric": {
+            "in-game-name": "Fabric",
+            "inputs": [
+                {
+                    "item": "Mycelia",
+                    "rate": 15.0
+                },
+                {
+                    "item": "Biomass",
+                    "rate": 75.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Fabric",
+                    "rate": 15.0
+                }
+            ]
+        },
+        "NutritionalInhaler": {
+            "in-game-name": "Nutritional Inhaler",
+            "inputs": [
+                {
+                    "item": "BaconAgaric",
+                    "rate": 3.0
+                },
+                {
+                    "item": "Paleberry",
+                    "rate": 6.0
+                },
+                {
+                    "item": "BerylNut",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "MedicinalInhaler",
+                    "rate": 3.0
+                }
+            ]
+        },
+        "SyntheticPowerShard": {
+            "in-game-name": "Synthetic Power Shard",
+            "inputs": [
+                {
+                    "item": "TimeCrystal",
+                    "rate": 10.0
+                },
+                {
+                    "item": "DarkMatterCrystal",
+                    "rate": 10.0
+                },
+                {
+                    "item": "QuartzCrystal",
+                    "rate": 60.0
+                },
+                {
+                    "item": "ExcitedPhotonicMatter",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PowerShard",
+                    "rate": 5.0
+                },
+                {
+                    "item": "DarkMatterResidue",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "PowerShardFrom5": {
+            "in-game-name": "Power Shard (5)",
+            "inputs": [
+                {
+                    "item": "PurplePowerSlug",
+                    "rate": 2.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PowerShard",
+                    "rate": 12.5
+                }
+            ]
+        },
+        "PowerShardFrom2": {
+            "in-game-name": "Power Shard (2)",
+            "inputs": [
+                {
+                    "item": "YellowPowerSlug",
+                    "rate": 5.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PowerShard",
+                    "rate": 10.0
+                }
+            ]
+        },
+        "PulseNobelisk": {
+            "in-game-name": "Pulse Nobelisk",
+            "inputs": [
+                {
+                    "item": "Nobelisk",
+                    "rate": 5.0
+                },
+                {
+                    "item": "CrystalOscillator",
+                    "rate": 1.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PulseNobelisk",
+                    "rate": 5.0
+                }
+            ]
+        },
+        "ShatterRebar": {
+            "in-game-name": "Shatter Rebar",
+            "inputs": [
+                {
+                    "item": "IronRebar",
+                    "rate": 10.0
+                },
+                {
+                    "item": "QuartzCrystal",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "ShatterRebar",
+                    "rate": 5.0
+                }
+            ]
+        },
+        "TurboRifleAmmo": {
+            "in-game-name": "Turbo Rifle Ammo",
+            "inputs": [
+                {
+                    "item": "RifleAmmo",
+                    "rate": 125.0
+                },
+                {
+                    "item": "AluminumCasing",
+                    "rate": 15.0
+                },
+                {
+                    "item": "Turbofuel",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "TurboRifleAmmo",
+                    "rate": 250.0
+                }
+            ]
+        },
+        "NukeNobelisk": {
+            "in-game-name": "Nuke Nobelisk",
+            "inputs": [
+                {
+                    "item": "Nobelisk",
+                    "rate": 2.5
+                },
+                {
+                    "item": "EncasedUraniumCell",
+                    "rate": 10.0
+                },
+                {
+                    "item": "SmokelessPowder",
+                    "rate": 5.0
+                },
+                {
+                    "item": "AILimiter",
+                    "rate": 3.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "NukeNobelisk",
+                    "rate": 0.5
+                }
+            ]
+        },
+        "RifleAmmo": {
+            "in-game-name": "Rifle Ammo",
+            "inputs": [
+                {
+                    "item": "CopperSheet",
+                    "rate": 15.0
+                },
+                {
+                    "item": "SmokelessPowder",
+                    "rate": 10.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "RifleAmmo",
+                    "rate": 75.0
+                }
+            ]
+        },
+        "ExplosiveRebar": {
+            "in-game-name": "Explosive Rebar",
+            "inputs": [
+                {
+                    "item": "IronRebar",
+                    "rate": 10.0
+                },
+                {
+                    "item": "SmokelessPowder",
+                    "rate": 10.0
+                },
+                {
+                    "item": "SteelPipe",
+                    "rate": 10.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "ExplosiveRebar",
+                    "rate": 5.0
+                }
+            ]
+        },
+        "Rifle": {
+            "in-game-name": "Rifle",
+            "inputs": [
+                {
+                    "item": "Motor",
+                    "rate": 1.0
+                },
+                {
+                    "item": "Rubber",
+                    "rate": 5.0
+                },
+                {
+                    "item": "SteelPipe",
+                    "rate": 12.5
+                },
+                {
+                    "item": "Screw",
+                    "rate": 125.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Rifle",
+                    "rate": 0.5
+                }
+            ]
+        },
+        "ClusterNobelisk": {
+            "in-game-name": "Cluster Nobelisk",
+            "inputs": [
+                {
+                    "item": "Nobelisk",
+                    "rate": 7.5
+                },
+                {
+                    "item": "SmokelessPowder",
+                    "rate": 10.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "ClusterNobelisk",
+                    "rate": 2.5
+                }
+            ]
+        },
+        "Nobelisk": {
+            "in-game-name": "Nobelisk",
+            "inputs": [
+                {
+                    "item": "BlackPowder",
+                    "rate": 20.0
+                },
+                {
+                    "item": "SteelPipe",
+                    "rate": 20.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Nobelisk",
+                    "rate": 10.0
+                }
+            ]
+        },
+        "NobeliskDetonator": {
+            "in-game-name": "Nobelisk Detonator",
+            "inputs": [
+                {
+                    "item": "ObjectScanner",
+                    "rate": 0.75
+                },
+                {
+                    "item": "SteelBeam",
+                    "rate": 7.5
+                },
+                {
+                    "item": "Cable",
+                    "rate": 37.5
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "NobeliskDetonator",
+                    "rate": 0.75
+                }
+            ]
+        },
+        "SmokelessPowder": {
+            "in-game-name": "Smokeless Powder",
+            "inputs": [
+                {
+                    "item": "BlackPowder",
+                    "rate": 20.0
+                },
+                {
+                    "item": "HeavyOilResidue",
+                    "rate": 10.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "SmokelessPowder",
+                    "rate": 20.0
+                }
+            ]
+        },
+        "FactoryCart\u2122": {
+            "in-game-name": "Factory Cart\u2122",
+            "inputs": [
+                {
+                    "item": "ReinforcedIronPlate",
+                    "rate": 12.0
+                },
+                {
+                    "item": "IronRod",
+                    "rate": 12.0
+                },
+                {
+                    "item": "Rotor",
+                    "rate": 6.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "FactoryCart\u2122",
+                    "rate": 3.0
+                }
+            ]
+        },
+        "GoldenFactoryCart\u2122": {
+            "in-game-name": "Golden Factory Cart\u2122",
+            "inputs": [
+                {
+                    "item": "CateriumIngot",
+                    "rate": 45.0
+                },
+                {
+                    "item": "IronRod",
+                    "rate": 12.0
+                },
+                {
+                    "item": "Rotor",
+                    "rate": 6.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "GoldenFactoryCart\u2122",
+                    "rate": 3.0
+                }
+            ]
+        },
+        "BiomassFromLeaves": {
+            "in-game-name": "Biomass (Leaves)",
+            "inputs": [
+                {
+                    "item": "Leaves",
+                    "rate": 120.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Biomass",
+                    "rate": 60.0
+                }
+            ]
+        },
+        "BiomassFromWood": {
+            "in-game-name": "Biomass (Wood)",
+            "inputs": [
+                {
+                    "item": "Wood",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Biomass",
+                    "rate": 300.0
+                }
+            ]
+        },
+        "ReinforcedIronPlate": {
+            "in-game-name": "Reinforced Iron Plate",
+            "inputs": [
+                {
+                    "item": "IronPlate",
+                    "rate": 30.0
+                },
+                {
+                    "item": "Screw",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "ReinforcedIronPlate",
+                    "rate": 5.0
+                }
+            ]
+        },
+        "Concrete": {
+            "in-game-name": "Concrete",
+            "inputs": [
+                {
+                    "item": "Limestone",
+                    "rate": 45.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Concrete",
+                    "rate": 15.0
+                }
+            ]
+        },
+        "Screw": {
+            "in-game-name": "Screw",
+            "inputs": [
+                {
+                    "item": "IronRod",
+                    "rate": 10.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Screw",
+                    "rate": 40.0
+                }
+            ]
+        },
+        "Cable": {
+            "in-game-name": "Cable",
+            "inputs": [
+                {
+                    "item": "Wire",
+                    "rate": 60.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Cable",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "Wire": {
+            "in-game-name": "Wire",
+            "inputs": [
+                {
+                    "item": "CopperIngot",
+                    "rate": 15.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "Wire",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "CopperIngot": {
+            "in-game-name": "Copper Ingot",
+            "inputs": [
+                {
+                    "item": "CopperOre",
+                    "rate": 30.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "CopperIngot",
+                    "rate": 30.0
+                }
+            ]
+        },
+        "PortableMiner": {
+            "in-game-name": "Portable Miner",
+            "inputs": [
+                {
+                    "item": "IronPlate",
+                    "rate": 3.0
+                },
+                {
+                    "item": "IronRod",
+                    "rate": 6.0
+                }
+            ],
+            "outputs": [
+                {
+                    "item": "PortableMiner",
+                    "rate": 1.5
+                }
+            ]
+        }
+    }
+}
