@@ -24,7 +24,14 @@ with open("ficsit_resources/recipes.py", "w") as f:
         f.write(f"{t}{recipe_id} = Recipe(\n")
         f.write(f"{t * 2}\"{recipe['in-game-name']}\",\n")
         f.write(f"{t * 2}[{inputs}],\n")
-        f.write(f"{t * 2}[{outputs}],\n{t})\n")
+        f.write(f"{t * 2}[{outputs}],\n")
+        if recipe["hand-craftable"]:
+            f.write(f"{t * 2}hand_craftable=True,\n")
+        if recipe["workshop-craftable"]:
+            f.write(f"{t * 2}workshop_craftable=True,\n")
+        if recipe["machine-craftable"]:
+            f.write(f"{t * 2}machine_craftable=True,\n")
+        f.write(f"{t})\n")
     f.write(f"\n{t}__all = [\n")
     for recipe_id in data["recipes"]:
         f.write(f"{t * 2}{recipe_id},\n")

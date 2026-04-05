@@ -529,6 +529,9 @@
     "recipes": {
         "IronPlate": {
             "in-game-name": "Iron Plate",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronIngot",
@@ -544,6 +547,9 @@
         },
         "IronRod": {
             "in-game-name": "Iron Rod",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronIngot",
@@ -559,6 +565,9 @@
         },
         "XenoZapper": {
             "in-game-name": "Xeno-Zapper",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "IronRod",
@@ -586,6 +595,9 @@
         },
         "IronIngot": {
             "in-game-name": "Iron Ingot",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronOre",
@@ -601,6 +613,9 @@
         },
         "NitroRocketFuel": {
             "in-game-name": "Alternate: Nitro Rocket Fuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Fuel",
@@ -632,6 +647,9 @@
         },
         "RocketFuel": {
             "in-game-name": "Rocket Fuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Turbofuel",
@@ -655,6 +673,9 @@
         },
         "PackagedRocketFuel": {
             "in-game-name": "Packaged Rocket Fuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "RocketFuel",
@@ -674,6 +695,9 @@
         },
         "UnpackageRocketFuel": {
             "in-game-name": "Unpackage Rocket Fuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "PackagedRocketFuel",
@@ -693,6 +717,9 @@
         },
         "DarkIonFuel": {
             "in-game-name": "Alternate: Dark-Ion Fuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "PackagedRocketFuel",
@@ -716,6 +743,9 @@
         },
         "DarkMatterResidue": {
             "in-game-name": "Dark Matter Residue",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -731,6 +761,9 @@
         },
         "ExcitedPhotonicMatter": {
             "in-game-name": "Excited Photonic Matter",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [],
             "outputs": [
                 {
@@ -741,6 +774,9 @@
         },
         "DarkMatterCrystal": {
             "in-game-name": "Dark Matter Crystal",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Diamonds",
@@ -760,6 +796,9 @@
         },
         "SuperpositionOscillator": {
             "in-game-name": "Superposition Oscillator",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "DarkMatterCrystal",
@@ -791,6 +830,9 @@
         },
         "NeuralQuantumProcessor": {
             "in-game-name": "Neural-Quantum Processor",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "TimeCrystal",
@@ -822,6 +864,9 @@
         },
         "AIExpansionServer": {
             "in-game-name": "AI Expansion Server",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "MagneticFieldGenerator",
@@ -853,6 +898,9 @@
         },
         "IonizedFuel": {
             "in-game-name": "Ionized Fuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "RocketFuel",
@@ -876,6 +924,9 @@
         },
         "PackagedIonizedFuel": {
             "in-game-name": "Packaged Ionized Fuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IonizedFuel",
@@ -895,6 +946,9 @@
         },
         "UnpackageIonizedFuel": {
             "in-game-name": "Unpackage Ionized Fuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "PackagedIonizedFuel",
@@ -914,6 +968,9 @@
         },
         "TurboDiamonds": {
             "in-game-name": "Alternate: Turbo Diamonds",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Coal",
@@ -933,6 +990,9 @@
         },
         "SAMFluctuator": {
             "in-game-name": "SAM Fluctuator",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -956,6 +1016,9 @@
         },
         "FicsiteTrigon": {
             "in-game-name": "Ficsite Trigon",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "FicsiteIngot",
@@ -971,6 +1034,9 @@
         },
         "FicsiteIngotFromIron": {
             "in-game-name": "Ficsite Ingot (Iron)",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -990,6 +1056,9 @@
         },
         "TimeCrystal": {
             "in-game-name": "Time Crystal",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Diamonds",
@@ -1005,6 +1074,9 @@
         },
         "Diamonds": {
             "in-game-name": "Diamonds",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Coal",
@@ -1020,6 +1092,9 @@
         },
         "ReanimatedSAM": {
             "in-game-name": "Reanimated SAM",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "SAM",
@@ -1035,6 +1110,9 @@
         },
         "BiochemicalSculptor": {
             "in-game-name": "Biochemical Sculptor",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "AssemblyDirectorSystem",
@@ -1058,6 +1136,9 @@
         },
         "FicsiteIngotFromAluminum": {
             "in-game-name": "Ficsite Ingot (Aluminum)",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -1077,6 +1158,9 @@
         },
         "FicsiteIngotFromCaterium": {
             "in-game-name": "Ficsite Ingot (Caterium)",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -1096,6 +1180,9 @@
         },
         "BauxiteFromCaterium": {
             "in-game-name": "Bauxite (Caterium)",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -1115,6 +1202,9 @@
         },
         "BauxiteFromCopper": {
             "in-game-name": "Bauxite (Copper)",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -1134,6 +1224,9 @@
         },
         "CateriumOreFromCopper": {
             "in-game-name": "Caterium Ore (Copper)",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -1153,6 +1246,9 @@
         },
         "CateriumOreFromQuartz": {
             "in-game-name": "Caterium Ore (Quartz)",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -1172,6 +1268,9 @@
         },
         "CoalFromIron": {
             "in-game-name": "Coal (Iron)",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -1191,6 +1290,9 @@
         },
         "CoalFromLimestone": {
             "in-game-name": "Coal (Limestone)",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -1210,6 +1312,9 @@
         },
         "CopperOreFromQuartz": {
             "in-game-name": "Copper Ore (Quartz)",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -1229,6 +1334,9 @@
         },
         "CopperOreFromSulfur": {
             "in-game-name": "Copper Ore (Sulfur)",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -1248,6 +1356,9 @@
         },
         "IronOreFromLimestone": {
             "in-game-name": "Iron Ore (Limestone)",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -1267,6 +1378,9 @@
         },
         "LimestoneFromSulfur": {
             "in-game-name": "Limestone (Sulfur)",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -1286,6 +1400,9 @@
         },
         "NitrogenGasFromBauxite": {
             "in-game-name": "Nitrogen Gas (Bauxite)",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -1305,6 +1422,9 @@
         },
         "NitrogenGasFromCaterium": {
             "in-game-name": "Nitrogen Gas (Caterium)",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -1324,6 +1444,9 @@
         },
         "RawQuartzFromBauxite": {
             "in-game-name": "Raw Quartz (Bauxite)",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -1343,6 +1466,9 @@
         },
         "RawQuartzFromCoal": {
             "in-game-name": "Raw Quartz (Coal)",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -1362,6 +1488,9 @@
         },
         "SulfurFromCoal": {
             "in-game-name": "Sulfur (Coal)",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -1381,6 +1510,9 @@
         },
         "SulfurFromIron": {
             "in-game-name": "Sulfur (Iron)",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -1400,6 +1532,9 @@
         },
         "UraniumOreFromBauxite": {
             "in-game-name": "Uranium Ore (Bauxite)",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReanimatedSAM",
@@ -1419,6 +1554,9 @@
         },
         "Turbofuel": {
             "in-game-name": "Turbofuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Fuel",
@@ -1438,6 +1576,9 @@
         },
         "PackagedTurbofuel": {
             "in-game-name": "Packaged Turbofuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Turbofuel",
@@ -1457,6 +1598,9 @@
         },
         "UnpackageTurbofuel": {
             "in-game-name": "Unpackage Turbofuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "PackagedTurbofuel",
@@ -1476,6 +1620,9 @@
         },
         "Charcoal": {
             "in-game-name": "Alternate: Charcoal",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Wood",
@@ -1491,6 +1638,9 @@
         },
         "Biocoal": {
             "in-game-name": "Alternate: Biocoal",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Biomass",
@@ -1506,6 +1656,9 @@
         },
         "CompactedCoal": {
             "in-game-name": "Alternate: Compacted Coal",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Coal",
@@ -1525,6 +1678,9 @@
         },
         "CircuitBoard": {
             "in-game-name": "Circuit Board",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CopperSheet",
@@ -1544,6 +1700,9 @@
         },
         "Fuel": {
             "in-game-name": "Fuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CrudeOil",
@@ -1563,6 +1722,9 @@
         },
         "PetroleumCoke": {
             "in-game-name": "Petroleum Coke",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "HeavyOilResidue",
@@ -1578,6 +1740,9 @@
         },
         "Plastic": {
             "in-game-name": "Plastic",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CrudeOil",
@@ -1597,6 +1762,9 @@
         },
         "Rubber": {
             "in-game-name": "Rubber",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CrudeOil",
@@ -1616,6 +1784,9 @@
         },
         "ResidualFuel": {
             "in-game-name": "Residual Fuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "HeavyOilResidue",
@@ -1631,6 +1802,9 @@
         },
         "ResidualPlastic": {
             "in-game-name": "Residual Plastic",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "PolymerResin",
@@ -1650,6 +1824,9 @@
         },
         "ResidualRubber": {
             "in-game-name": "Residual Rubber",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "PolymerResin",
@@ -1669,6 +1846,9 @@
         },
         "PinkDiamonds": {
             "in-game-name": "Alternate: Pink Diamonds",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Coal",
@@ -1688,6 +1868,9 @@
         },
         "PetroleumDiamonds": {
             "in-game-name": "Alternate: Petroleum Diamonds",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "PetroleumCoke",
@@ -1703,6 +1886,9 @@
         },
         "OilBasedDiamonds": {
             "in-game-name": "Alternate: Oil-Based Diamonds",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CrudeOil",
@@ -1718,6 +1904,9 @@
         },
         "CloudyDiamonds": {
             "in-game-name": "Alternate: Cloudy Diamonds",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Coal",
@@ -1737,6 +1926,9 @@
         },
         "DarkMatterTrap": {
             "in-game-name": "Alternate: Dark Matter Trap",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "TimeCrystal",
@@ -1756,6 +1948,9 @@
         },
         "DarkMatterCrystallization": {
             "in-game-name": "Alternate: Dark Matter Crystallization",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "DarkMatterResidue",
@@ -1771,6 +1966,9 @@
         },
         "WetConcrete": {
             "in-game-name": "Alternate: Wet Concrete",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Limestone",
@@ -1790,6 +1988,9 @@
         },
         "TurboHeavyFuel": {
             "in-game-name": "Alternate: Turbo Heavy Fuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "HeavyOilResidue",
@@ -1809,6 +2010,9 @@
         },
         "SteelRod": {
             "in-game-name": "Alternate: Steel Rod",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "SteelIngot",
@@ -1824,6 +2028,9 @@
         },
         "SteelBeam": {
             "in-game-name": "Steel Beam",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "SteelIngot",
@@ -1839,6 +2046,9 @@
         },
         "SteelPipe": {
             "in-game-name": "Steel Pipe",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "SteelIngot",
@@ -1854,6 +2064,9 @@
         },
         "SteelIngot": {
             "in-game-name": "Steel Ingot",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronOre",
@@ -1873,6 +2086,9 @@
         },
         "VersatileFramework": {
             "in-game-name": "Versatile Framework",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ModularFrame",
@@ -1892,6 +2108,9 @@
         },
         "SteelCanister": {
             "in-game-name": "Alternate: Steel Canister",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "SteelIngot",
@@ -1907,6 +2126,9 @@
         },
         "EmptyCanister": {
             "in-game-name": "Empty Canister",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Plastic",
@@ -1922,6 +2144,9 @@
         },
         "PackagedFuel": {
             "in-game-name": "Packaged Fuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Fuel",
@@ -1941,6 +2166,9 @@
         },
         "LiquidBiofuel": {
             "in-game-name": "Liquid Biofuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "SolidBiofuel",
@@ -1960,6 +2188,9 @@
         },
         "PackagedLiquidBiofuel": {
             "in-game-name": "Packaged Liquid Biofuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "LiquidBiofuel",
@@ -1979,6 +2210,9 @@
         },
         "PackagedOil": {
             "in-game-name": "Packaged Oil",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CrudeOil",
@@ -1998,6 +2232,9 @@
         },
         "PackagedHeavyOilResidue": {
             "in-game-name": "Packaged Heavy Oil Residue",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "HeavyOilResidue",
@@ -2017,6 +2254,9 @@
         },
         "PackagedWater": {
             "in-game-name": "Packaged Water",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Water",
@@ -2036,6 +2276,9 @@
         },
         "UnpackageLiquidBiofuel": {
             "in-game-name": "Unpackage Liquid Biofuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "PackagedLiquidBiofuel",
@@ -2055,6 +2298,9 @@
         },
         "UnpackageFuel": {
             "in-game-name": "Unpackage Fuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "PackagedFuel",
@@ -2074,6 +2320,9 @@
         },
         "UnpackageOil": {
             "in-game-name": "Unpackage Oil",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "PackagedOil",
@@ -2093,6 +2342,9 @@
         },
         "UnpackageHeavyOilResidue": {
             "in-game-name": "Unpackage Heavy Oil Residue",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "PackagedHeavyOilResidue",
@@ -2112,6 +2364,9 @@
         },
         "UnpackageWater": {
             "in-game-name": "Unpackage Water",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "PackagedWater",
@@ -2131,6 +2386,9 @@
         },
         "SteamedCopperSheet": {
             "in-game-name": "Alternate: Steamed Copper Sheet",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CopperIngot",
@@ -2150,6 +2408,9 @@
         },
         "RubberConcrete": {
             "in-game-name": "Alternate: Rubber Concrete",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Limestone",
@@ -2169,6 +2430,9 @@
         },
         "RecycledRubber": {
             "in-game-name": "Alternate: Recycled Rubber",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Plastic",
@@ -2188,6 +2452,9 @@
         },
         "PureQuartzCrystal": {
             "in-game-name": "Alternate: Pure Quartz Crystal",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "RawQuartz",
@@ -2207,6 +2474,9 @@
         },
         "QuartzCrystal": {
             "in-game-name": "Quartz Crystal",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "RawQuartz",
@@ -2222,6 +2492,9 @@
         },
         "PureIronIngot": {
             "in-game-name": "Alternate: Pure Iron Ingot",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronOre",
@@ -2241,6 +2514,9 @@
         },
         "PureCopperIngot": {
             "in-game-name": "Alternate: Pure Copper Ingot",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CopperOre",
@@ -2260,6 +2536,9 @@
         },
         "PureCateriumIngot": {
             "in-game-name": "Alternate: Pure Caterium Ingot",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CateriumOre",
@@ -2279,6 +2558,9 @@
         },
         "PureAluminumIngot": {
             "in-game-name": "Alternate: Pure Aluminum Ingot",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "AluminumScrap",
@@ -2294,6 +2576,9 @@
         },
         "AluminumCasing": {
             "in-game-name": "Aluminum Casing",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "AluminumIngot",
@@ -2309,6 +2594,9 @@
         },
         "AlcladAluminumSheet": {
             "in-game-name": "Alclad Aluminum Sheet",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "AluminumIngot",
@@ -2328,6 +2616,9 @@
         },
         "AluminaSolution": {
             "in-game-name": "Alumina Solution",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Bauxite",
@@ -2351,6 +2642,9 @@
         },
         "AluminumScrap": {
             "in-game-name": "Aluminum Scrap",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "AluminaSolution",
@@ -2374,6 +2668,9 @@
         },
         "PackagedAluminaSolution": {
             "in-game-name": "Packaged Alumina Solution",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "AluminaSolution",
@@ -2393,6 +2690,9 @@
         },
         "AluminumIngot": {
             "in-game-name": "Aluminum Ingot",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "AluminumScrap",
@@ -2412,6 +2712,9 @@
         },
         "Silica": {
             "in-game-name": "Silica",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "RawQuartz",
@@ -2427,6 +2730,9 @@
         },
         "CrystalOscillator": {
             "in-game-name": "Crystal Oscillator",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "QuartzCrystal",
@@ -2450,6 +2756,9 @@
         },
         "UnpackageAluminaSolution": {
             "in-game-name": "Unpackage Alumina Solution",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "PackagedAluminaSolution",
@@ -2469,6 +2778,9 @@
         },
         "PolymerResin": {
             "in-game-name": "Alternate: Polymer Resin",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CrudeOil",
@@ -2488,6 +2800,9 @@
         },
         "PlasticSmartPlating": {
             "in-game-name": "Alternate: Plastic Smart Plating",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReinforcedIronPlate",
@@ -2511,6 +2826,9 @@
         },
         "AutomatedSpeedWiring": {
             "in-game-name": "Alternate: Automated Speed Wiring",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Stator",
@@ -2534,6 +2852,9 @@
         },
         "EncasedIndustrialBeam": {
             "in-game-name": "Encased Industrial Beam",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "SteelBeam",
@@ -2553,6 +2874,9 @@
         },
         "Motor": {
             "in-game-name": "Motor",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Rotor",
@@ -2572,6 +2896,9 @@
         },
         "Stator": {
             "in-game-name": "Stator",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "SteelPipe",
@@ -2591,6 +2918,9 @@
         },
         "AutomatedWiring": {
             "in-game-name": "Automated Wiring",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Stator",
@@ -2610,6 +2940,9 @@
         },
         "AILimiter": {
             "in-game-name": "AI Limiter",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CopperSheet",
@@ -2629,6 +2962,9 @@
         },
         "HeavyOilResidue": {
             "in-game-name": "Alternate: Heavy Oil Residue",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CrudeOil",
@@ -2648,6 +2984,9 @@
         },
         "HeavyFlexibleFrame": {
             "in-game-name": "Alternate: Heavy Flexible Frame",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ModularFrame",
@@ -2675,6 +3014,9 @@
         },
         "Computer": {
             "in-game-name": "Computer",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CircuitBoard",
@@ -2698,6 +3040,9 @@
         },
         "HeavyModularFrame": {
             "in-game-name": "Heavy Modular Frame",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ModularFrame",
@@ -2725,6 +3070,9 @@
         },
         "ModularEngine": {
             "in-game-name": "Modular Engine",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Motor",
@@ -2748,6 +3096,9 @@
         },
         "AdaptiveControlUnit": {
             "in-game-name": "Adaptive Control Unit",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "AutomatedWiring",
@@ -2775,6 +3126,9 @@
         },
         "FusedWire": {
             "in-game-name": "Alternate: Fused Wire",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CopperIngot",
@@ -2794,6 +3148,9 @@
         },
         "FlexibleFramework": {
             "in-game-name": "Alternate: Flexible Framework",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ModularFrame",
@@ -2817,6 +3174,9 @@
         },
         "ElectrodeCircuitBoard": {
             "in-game-name": "Alternate: Electrode Circuit Board",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Rubber",
@@ -2836,6 +3196,9 @@
         },
         "ElectrodeAluminumScrap": {
             "in-game-name": "Alternate: Electrode Aluminum Scrap",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "AluminaSolution",
@@ -2859,6 +3222,9 @@
         },
         "DilutedPackagedFuel": {
             "in-game-name": "Alternate: Diluted Packaged Fuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "HeavyOilResidue",
@@ -2878,6 +3244,9 @@
         },
         "CopperRotor": {
             "in-game-name": "Alternate: Copper Rotor",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CopperSheet",
@@ -2897,6 +3266,9 @@
         },
         "ModularFrame": {
             "in-game-name": "Modular Frame",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReinforcedIronPlate",
@@ -2916,6 +3288,9 @@
         },
         "Rotor": {
             "in-game-name": "Rotor",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronRod",
@@ -2935,6 +3310,9 @@
         },
         "CopperSheet": {
             "in-game-name": "Copper Sheet",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CopperIngot",
@@ -2950,6 +3328,9 @@
         },
         "SmartPlating": {
             "in-game-name": "Smart Plating",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReinforcedIronPlate",
@@ -2969,6 +3350,9 @@
         },
         "CopperAlloyIngot": {
             "in-game-name": "Alternate: Copper Alloy Ingot",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CopperOre",
@@ -2988,6 +3372,9 @@
         },
         "CokeSteelIngot": {
             "in-game-name": "Alternate: Coke Steel Ingot",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronOre",
@@ -3007,6 +3394,9 @@
         },
         "CoatedIronPlate": {
             "in-game-name": "Alternate: Coated Iron Plate",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronIngot",
@@ -3026,6 +3416,9 @@
         },
         "CoatedIronCanister": {
             "in-game-name": "Alternate: Coated Iron Canister",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronPlate",
@@ -3045,6 +3438,9 @@
         },
         "CoatedCable": {
             "in-game-name": "Alternate: Coated Cable",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Wire",
@@ -3064,6 +3460,9 @@
         },
         "BoltedFrame": {
             "in-game-name": "Alternate: Bolted Frame",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReinforcedIronPlate",
@@ -3083,6 +3482,9 @@
         },
         "AdheredIronPlate": {
             "in-game-name": "Alternate: Adhered Iron Plate",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronPlate",
@@ -3102,6 +3504,9 @@
         },
         "TurboPressureMotor": {
             "in-game-name": "Alternate: Turbo Pressure Motor",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Motor",
@@ -3129,6 +3534,9 @@
         },
         "EncasedPlutoniumCell": {
             "in-game-name": "Encased Plutonium Cell",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "PlutoniumPellet",
@@ -3148,6 +3556,9 @@
         },
         "PressureConversionCube": {
             "in-game-name": "Pressure Conversion Cube",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "FusedModularFrame",
@@ -3167,6 +3578,9 @@
         },
         "NitricAcid": {
             "in-game-name": "Nitric Acid",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "NitrogenGas",
@@ -3190,6 +3604,9 @@
         },
         "NonFissileUranium": {
             "in-game-name": "Non-Fissile Uranium",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "UraniumWaste",
@@ -3221,6 +3638,9 @@
         },
         "CopperPowder": {
             "in-game-name": "Copper Powder",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CopperIngot",
@@ -3236,6 +3656,9 @@
         },
         "PlutoniumPellet": {
             "in-game-name": "Plutonium Pellet",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "NonFissileUranium",
@@ -3255,6 +3678,9 @@
         },
         "PlutoniumFuelRod": {
             "in-game-name": "Plutonium Fuel Rod",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "EncasedPlutoniumCell",
@@ -3282,6 +3708,9 @@
         },
         "PackagedNitricAcid": {
             "in-game-name": "Packaged Nitric Acid",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "NitricAcid",
@@ -3301,6 +3730,9 @@
         },
         "NuclearPasta": {
             "in-game-name": "Nuclear Pasta",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CopperPowder",
@@ -3320,6 +3752,9 @@
         },
         "UnpackageNitricAcid": {
             "in-game-name": "Unpackage Nitric Acid",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "PackagedNitricAcid",
@@ -3339,6 +3774,9 @@
         },
         "TurboBlendFuel": {
             "in-game-name": "Alternate: Turbo Blend Fuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Fuel",
@@ -3366,6 +3804,9 @@
         },
         "EncasedUraniumCell": {
             "in-game-name": "Encased Uranium Cell",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Uranium",
@@ -3393,6 +3834,9 @@
         },
         "CoolingSystem": {
             "in-game-name": "Cooling System",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "HeatSink",
@@ -3420,6 +3864,9 @@
         },
         "Battery": {
             "in-game-name": "Battery",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "SulfuricAcid",
@@ -3447,6 +3894,9 @@
         },
         "Supercomputer": {
             "in-game-name": "Supercomputer",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Computer",
@@ -3474,6 +3924,9 @@
         },
         "RadioControlUnit": {
             "in-game-name": "Radio Control Unit",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "AluminumCasing",
@@ -3497,6 +3950,9 @@
         },
         "SulfuricAcid": {
             "in-game-name": "Sulfuric Acid",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Sulfur",
@@ -3516,6 +3972,9 @@
         },
         "PackagedSulfuricAcid": {
             "in-game-name": "Packaged Sulfuric Acid",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "SulfuricAcid",
@@ -3535,6 +3994,9 @@
         },
         "AssemblyDirectorSystem": {
             "in-game-name": "Assembly Director System",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "AdaptiveControlUnit",
@@ -3554,6 +4016,9 @@
         },
         "HighSpeedConnector": {
             "in-game-name": "High-Speed Connector",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Quickwire",
@@ -3577,6 +4042,9 @@
         },
         "UnpackageSulfuricAcid": {
             "in-game-name": "Unpackage Sulfuric Acid",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "PackagedSulfuricAcid",
@@ -3596,6 +4064,9 @@
         },
         "SuperStateComputer": {
             "in-game-name": "Alternate: Super-State Computer",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Computer",
@@ -3623,6 +4094,9 @@
         },
         "ElectromagneticControlRod": {
             "in-game-name": "Electromagnetic Control Rod",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Stator",
@@ -3642,6 +4116,9 @@
         },
         "UraniumFuelRod": {
             "in-game-name": "Uranium Fuel Rod",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "EncasedUraniumCell",
@@ -3665,6 +4142,9 @@
         },
         "MagneticFieldGenerator": {
             "in-game-name": "Magnetic Field Generator",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "VersatileFramework",
@@ -3684,6 +4164,9 @@
         },
         "SloppyAlumina": {
             "in-game-name": "Alternate: Sloppy Alumina",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Bauxite",
@@ -3703,6 +4186,9 @@
         },
         "RadioControlSystem": {
             "in-game-name": "Alternate: Radio Control System",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CrystalOscillator",
@@ -3730,6 +4216,9 @@
         },
         "PlutoniumFuelUnit": {
             "in-game-name": "Alternate: Plutonium Fuel Unit",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "EncasedPlutoniumCell",
@@ -3749,6 +4238,9 @@
         },
         "OCSupercomputer": {
             "in-game-name": "Alternate: OC Supercomputer",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "RadioControlUnit",
@@ -3768,6 +4260,9 @@
         },
         "HeatSink": {
             "in-game-name": "Heat Sink",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "AlcladAluminumSheet",
@@ -3787,6 +4282,9 @@
         },
         "FusedModularFrame": {
             "in-game-name": "Fused Modular Frame",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "HeavyModularFrame",
@@ -3810,6 +4308,9 @@
         },
         "EmptyFluidTank": {
             "in-game-name": "Empty Fluid Tank",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "AluminumIngot",
@@ -3825,6 +4326,9 @@
         },
         "PackagedNitrogenGas": {
             "in-game-name": "Packaged Nitrogen Gas",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "NitrogenGas",
@@ -3844,6 +4348,9 @@
         },
         "UnpackageNitrogenGas": {
             "in-game-name": "Unpackage Nitrogen Gas",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "PackagedNitrogenGas",
@@ -3863,6 +4370,9 @@
         },
         "InstantScrap": {
             "in-game-name": "Alternate: Instant Scrap",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Bauxite",
@@ -3894,6 +4404,9 @@
         },
         "InstantPlutoniumCell": {
             "in-game-name": "Alternate: Instant Plutonium Cell",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "NonFissileUranium",
@@ -3913,6 +4426,9 @@
         },
         "HeatFusedFrame": {
             "in-game-name": "Alternate: Heat-Fused Frame",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "HeavyModularFrame",
@@ -3940,6 +4456,9 @@
         },
         "FertileUranium": {
             "in-game-name": "Alternate: Fertile Uranium",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Uranium",
@@ -3971,6 +4490,9 @@
         },
         "ElectricMotor": {
             "in-game-name": "Alternate: Electric Motor",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ElectromagneticControlRod",
@@ -3990,6 +4512,9 @@
         },
         "DilutedFuel": {
             "in-game-name": "Alternate: Diluted Fuel",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "HeavyOilResidue",
@@ -4009,6 +4534,9 @@
         },
         "CoolingDevice": {
             "in-game-name": "Alternate: Cooling Device",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "HeatSink",
@@ -4032,6 +4560,9 @@
         },
         "ClassicBattery": {
             "in-game-name": "Alternate: Classic Battery",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Sulfur",
@@ -4059,6 +4590,9 @@
         },
         "AutomatedMiner": {
             "in-game-name": "Alternate: Automated Miner",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "SteelPipe",
@@ -4078,6 +4612,9 @@
         },
         "AlcladCasing": {
             "in-game-name": "Alternate: Alclad Casing",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "AluminumIngot",
@@ -4097,6 +4634,9 @@
         },
         "MoldedSteelPipe": {
             "in-game-name": "Alternate: Molded Steel Pipe",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "SteelIngot",
@@ -4116,6 +4656,9 @@
         },
         "IronPipe": {
             "in-game-name": "Alternate: Iron Pipe",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronIngot",
@@ -4131,6 +4674,9 @@
         },
         "SteelCastPlate": {
             "in-game-name": "Alternate: Steel Cast Plate",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronIngot",
@@ -4150,6 +4696,9 @@
         },
         "MoldedBeam": {
             "in-game-name": "Alternate: Molded Beam",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "SteelIngot",
@@ -4169,6 +4718,9 @@
         },
         "AluminumBeam": {
             "in-game-name": "Alternate: Aluminum Beam",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "AluminumIngot",
@@ -4184,6 +4736,9 @@
         },
         "AluminumRod": {
             "in-game-name": "Alternate: Aluminum Rod",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "AluminumIngot",
@@ -4199,6 +4754,9 @@
         },
         "PlasticAILimiter": {
             "in-game-name": "Alternate: Plastic AI Limiter",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Quickwire",
@@ -4218,6 +4776,9 @@
         },
         "DistilledSilica": {
             "in-game-name": "Alternate: Distilled Silica",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "DissolvedSilica",
@@ -4245,6 +4806,9 @@
         },
         "QuartzPurification": {
             "in-game-name": "Alternate: Quartz Purification",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "RawQuartz",
@@ -4268,6 +4832,9 @@
         },
         "FusedQuartzCrystal": {
             "in-game-name": "Alternate: Fused Quartz Crystal",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "RawQuartz",
@@ -4287,6 +4854,9 @@
         },
         "LeachedIroningot": {
             "in-game-name": "Alternate: Leached Iron ingot",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronOre",
@@ -4306,6 +4876,9 @@
         },
         "BasicIronIngot": {
             "in-game-name": "Alternate: Basic Iron Ingot",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronOre",
@@ -4325,6 +4898,9 @@
         },
         "TemperedCopperIngot": {
             "in-game-name": "Alternate: Tempered Copper Ingot",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CopperOre",
@@ -4344,6 +4920,9 @@
         },
         "LeachedCopperIngot": {
             "in-game-name": "Alternate: Leached Copper Ingot",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CopperOre",
@@ -4363,6 +4942,9 @@
         },
         "TemperedCateriumIngot": {
             "in-game-name": "Alternate: Tempered Caterium Ingot",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CateriumOre",
@@ -4382,6 +4964,9 @@
         },
         "LeachedCateriumIngot": {
             "in-game-name": "Alternate: Leached Caterium Ingot",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CateriumOre",
@@ -4401,6 +4986,9 @@
         },
         "CateriumWire": {
             "in-game-name": "Alternate: Caterium Wire",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CateriumIngot",
@@ -4416,6 +5004,9 @@
         },
         "IronWire": {
             "in-game-name": "Alternate: Iron Wire",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronIngot",
@@ -4431,6 +5022,9 @@
         },
         "InfusedUraniumCell": {
             "in-game-name": "Alternate: Infused Uranium Cell",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Uranium",
@@ -4458,6 +5052,9 @@
         },
         "CateriumIngot": {
             "in-game-name": "Caterium Ingot",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CateriumOre",
@@ -4473,6 +5070,9 @@
         },
         "TurboElectricMotor": {
             "in-game-name": "Alternate: Turbo Electric Motor",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Motor",
@@ -4500,6 +5100,9 @@
         },
         "TurboMotor": {
             "in-game-name": "Turbo Motor",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CoolingSystem",
@@ -4527,6 +5130,9 @@
         },
         "ThermalPropulsionRocket": {
             "in-game-name": "Thermal Propulsion Rocket",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ModularEngine",
@@ -4554,6 +5160,9 @@
         },
         "QuickwireStator": {
             "in-game-name": "Alternate: Quickwire Stator",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "SteelPipe",
@@ -4573,6 +5182,9 @@
         },
         "CheapSilica": {
             "in-game-name": "Alternate: Cheap Silica",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "RawQuartz",
@@ -4592,6 +5204,9 @@
         },
         "SteelScrew": {
             "in-game-name": "Alternate: Steel Screw",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "SteelBeam",
@@ -4607,6 +5222,9 @@
         },
         "CastScrew": {
             "in-game-name": "Alternate: Cast Screw",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronIngot",
@@ -4622,6 +5240,9 @@
         },
         "SteelRotor": {
             "in-game-name": "Alternate: Steel Rotor",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "SteelPipe",
@@ -4641,6 +5262,9 @@
         },
         "EncasedIndustrialPipe": {
             "in-game-name": "Alternate: Encased Industrial Pipe",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "SteelPipe",
@@ -4660,6 +5284,9 @@
         },
         "StitchedIronPlate": {
             "in-game-name": "Alternate: Stitched Iron Plate",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronPlate",
@@ -4679,6 +5306,9 @@
         },
         "BoltedIronPlate": {
             "in-game-name": "Alternate: Bolted Iron Plate",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronPlate",
@@ -4698,6 +5328,9 @@
         },
         "RadioConnectionUnit": {
             "in-game-name": "Alternate: Radio Connection Unit",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "HeatSink",
@@ -4721,6 +5354,9 @@
         },
         "FusedQuickwire": {
             "in-game-name": "Alternate: Fused Quickwire",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CateriumIngot",
@@ -4740,6 +5376,9 @@
         },
         "RecycledPlastic": {
             "in-game-name": "Alternate: Recycled Plastic",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Rubber",
@@ -4759,6 +5398,9 @@
         },
         "UraniumFuelUnit": {
             "in-game-name": "Alternate: Uranium Fuel Unit",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "EncasedUraniumCell",
@@ -4786,6 +5428,9 @@
         },
         "RigorMotor": {
             "in-game-name": "Alternate: Rigor Motor",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Rotor",
@@ -4809,6 +5454,9 @@
         },
         "SteeledFrame": {
             "in-game-name": "Alternate: Steeled Frame",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ReinforcedIronPlate",
@@ -4828,6 +5476,9 @@
         },
         "CompactedSteelIngot": {
             "in-game-name": "Alternate: Compacted Steel Ingot",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronOre",
@@ -4847,6 +5498,9 @@
         },
         "SolidSteelIngot": {
             "in-game-name": "Alternate: Solid Steel Ingot",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronIngot",
@@ -4866,6 +5520,9 @@
         },
         "IronAlloyIngot": {
             "in-game-name": "Alternate: Iron Alloy Ingot",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronOre",
@@ -4885,6 +5542,9 @@
         },
         "SiliconHighSpeedConnector": {
             "in-game-name": "Alternate: Silicon High-Speed Connector",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Quickwire",
@@ -4908,6 +5568,9 @@
         },
         "HeavyEncasedFrame": {
             "in-game-name": "Alternate: Heavy Encased Frame",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ModularFrame",
@@ -4935,6 +5598,9 @@
         },
         "HeatExchanger": {
             "in-game-name": "Alternate: Heat Exchanger",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "AluminumCasing",
@@ -4954,6 +5620,9 @@
         },
         "FineBlackPowder": {
             "in-game-name": "Alternate: Fine Black Powder",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Sulfur",
@@ -4973,6 +5642,9 @@
         },
         "ElectromagneticConnectionRod": {
             "in-game-name": "Alternate: Electromagnetic Connection Rod",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Stator",
@@ -4992,6 +5664,9 @@
         },
         "InsulatedCrystalOscillator": {
             "in-game-name": "Alternate: Insulated Crystal Oscillator",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "QuartzCrystal",
@@ -5015,6 +5690,9 @@
         },
         "FineConcrete": {
             "in-game-name": "Alternate: Fine Concrete",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Silica",
@@ -5034,6 +5712,9 @@
         },
         "CrystalComputer": {
             "in-game-name": "Alternate: Crystal Computer",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CircuitBoard",
@@ -5053,6 +5734,9 @@
         },
         "CateriumComputer": {
             "in-game-name": "Alternate: Caterium Computer",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CircuitBoard",
@@ -5076,6 +5760,9 @@
         },
         "CateriumCircuitBoard": {
             "in-game-name": "Alternate: Caterium Circuit Board",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Plastic",
@@ -5095,6 +5782,9 @@
         },
         "SiliconCircuitBoard": {
             "in-game-name": "Alternate: Silicon Circuit Board",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CopperSheet",
@@ -5114,6 +5804,9 @@
         },
         "QuickwireCable": {
             "in-game-name": "Alternate: Quickwire Cable",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Quickwire",
@@ -5133,6 +5826,9 @@
         },
         "InsulatedCable": {
             "in-game-name": "Alternate: Insulated Cable",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Wire",
@@ -5152,6 +5848,9 @@
         },
         "Ficsonium": {
             "in-game-name": "Ficsonium",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "PlutoniumWaste",
@@ -5175,6 +5874,9 @@
         },
         "FicsoniumFuelRod": {
             "in-game-name": "Ficsonium Fuel Rod",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Ficsonium",
@@ -5206,6 +5908,9 @@
         },
         "SingularityCell": {
             "in-game-name": "Singularity Cell",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "NuclearPasta",
@@ -5233,6 +5938,9 @@
         },
         "BallisticWarpDrive": {
             "in-game-name": "Ballistic Warp Drive",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "ThermalPropulsionRocket",
@@ -5260,6 +5968,9 @@
         },
         "Hoverpack": {
             "in-game-name": "Hoverpack",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "Motor",
@@ -5287,6 +5998,9 @@
         },
         "IodineInfusedFilter": {
             "in-game-name": "Iodine-Infused Filter",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "GasFilter",
@@ -5310,6 +6024,9 @@
         },
         "HazmatSuit": {
             "in-game-name": "Hazmat Suit",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "Rubber",
@@ -5337,6 +6054,9 @@
         },
         "Jetpack": {
             "in-game-name": "Jetpack",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "Motor",
@@ -5364,6 +6084,9 @@
         },
         "Quickwire": {
             "in-game-name": "Quickwire",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CateriumIngot",
@@ -5379,6 +6102,9 @@
         },
         "XenoBasher": {
             "in-game-name": "Xeno-Basher",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "XenoZapper",
@@ -5406,6 +6132,9 @@
         },
         "SolidBiofuel": {
             "in-game-name": "Solid Biofuel",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Biomass",
@@ -5421,6 +6150,9 @@
         },
         "Chainsaw": {
             "in-game-name": "Chainsaw",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "ReinforcedIronPlate",
@@ -5448,6 +6180,9 @@
         },
         "HogProtein": {
             "in-game-name": "Hog Protein",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "HogRemains",
@@ -5463,6 +6198,9 @@
         },
         "SpitterProtein": {
             "in-game-name": "Spitter Protein",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "SpitterRemains",
@@ -5478,6 +6216,9 @@
         },
         "BiomassFromMycelia": {
             "in-game-name": "Biomass (Mycelia)",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Mycelia",
@@ -5493,6 +6234,9 @@
         },
         "PowerShardFrom1": {
             "in-game-name": "Power Shard (1)",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "BluePowerSlug",
@@ -5508,6 +6252,9 @@
         },
         "BlackPowder": {
             "in-game-name": "Black Powder",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Coal",
@@ -5527,6 +6274,9 @@
         },
         "AlienPowerMatrix": {
             "in-game-name": "Alien Power Matrix",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "SAMFluctuator",
@@ -5558,6 +6308,9 @@
         },
         "ObjectScanner": {
             "in-game-name": "Object Scanner",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "ReinforcedIronPlate",
@@ -5581,6 +6334,9 @@
         },
         "StingerProtein": {
             "in-game-name": "Stinger Protein",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "StingerRemains",
@@ -5596,6 +6352,9 @@
         },
         "HatcherProtein": {
             "in-game-name": "Hatcher Protein",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "HatcherRemains",
@@ -5611,6 +6370,9 @@
         },
         "AlienDNACapsule": {
             "in-game-name": "Alien DNA Capsule",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "AlienProtein",
@@ -5626,6 +6388,9 @@
         },
         "BiomassFromAlienProtein": {
             "in-game-name": "Biomass (Alien Protein)",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "AlienProtein",
@@ -5641,6 +6406,9 @@
         },
         "ProteinInhaler": {
             "in-game-name": "Protein Inhaler",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "AlienProtein",
@@ -5660,6 +6428,9 @@
         },
         "IronRebar": {
             "in-game-name": "Iron Rebar",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronRod",
@@ -5675,6 +6446,9 @@
         },
         "RebarGun": {
             "in-game-name": "Rebar Gun",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "ReinforcedIronPlate",
@@ -5698,6 +6472,9 @@
         },
         "HomingRifleAmmo": {
             "in-game-name": "Homing Rifle Ammo",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "RifleAmmo",
@@ -5717,6 +6494,9 @@
         },
         "BladeRunners": {
             "in-game-name": "Blade Runners",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "Silica",
@@ -5740,6 +6520,9 @@
         },
         "StunRebar": {
             "in-game-name": "Stun Rebar",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronRebar",
@@ -5759,6 +6542,9 @@
         },
         "Zipline": {
             "in-game-name": "Zipline",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "XenoZapper",
@@ -5786,6 +6572,9 @@
         },
         "GasFilter": {
             "in-game-name": "Gas Filter",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Fabric",
@@ -5809,6 +6598,9 @@
         },
         "GasMask": {
             "in-game-name": "Gas Mask",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "Fabric",
@@ -5832,6 +6624,9 @@
         },
         "GasNobelisk": {
             "in-game-name": "Gas Nobelisk",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Nobelisk",
@@ -5851,6 +6646,9 @@
         },
         "TherapeuticInhaler": {
             "in-game-name": "Therapeutic Inhaler",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "Mycelia",
@@ -5874,6 +6672,9 @@
         },
         "VitaminInhaler": {
             "in-game-name": "Vitamin Inhaler",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "Mycelia",
@@ -5893,6 +6694,9 @@
         },
         "Parachute": {
             "in-game-name": "Parachute",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "Fabric",
@@ -5912,6 +6716,9 @@
         },
         "PolyesterFabric": {
             "in-game-name": "Alternate: Polyester Fabric",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "PolymerResin",
@@ -5931,6 +6738,9 @@
         },
         "Fabric": {
             "in-game-name": "Fabric",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Mycelia",
@@ -5950,6 +6760,9 @@
         },
         "NutritionalInhaler": {
             "in-game-name": "Nutritional Inhaler",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "BaconAgaric",
@@ -5973,6 +6786,9 @@
         },
         "SyntheticPowerShard": {
             "in-game-name": "Synthetic Power Shard",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "TimeCrystal",
@@ -6004,6 +6820,9 @@
         },
         "PowerShardFrom5": {
             "in-game-name": "Power Shard (5)",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "PurplePowerSlug",
@@ -6019,6 +6838,9 @@
         },
         "PowerShardFrom2": {
             "in-game-name": "Power Shard (2)",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "YellowPowerSlug",
@@ -6034,6 +6856,9 @@
         },
         "PulseNobelisk": {
             "in-game-name": "Pulse Nobelisk",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Nobelisk",
@@ -6053,6 +6878,9 @@
         },
         "ShatterRebar": {
             "in-game-name": "Shatter Rebar",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronRebar",
@@ -6072,6 +6900,9 @@
         },
         "TurboRifleAmmo": {
             "in-game-name": "Turbo Rifle Ammo",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "RifleAmmo",
@@ -6095,6 +6926,9 @@
         },
         "NukeNobelisk": {
             "in-game-name": "Nuke Nobelisk",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Nobelisk",
@@ -6122,6 +6956,9 @@
         },
         "RifleAmmo": {
             "in-game-name": "Rifle Ammo",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CopperSheet",
@@ -6141,6 +6978,9 @@
         },
         "ExplosiveRebar": {
             "in-game-name": "Explosive Rebar",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronRebar",
@@ -6164,6 +7004,9 @@
         },
         "Rifle": {
             "in-game-name": "Rifle",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "Motor",
@@ -6191,6 +7034,9 @@
         },
         "ClusterNobelisk": {
             "in-game-name": "Cluster Nobelisk",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Nobelisk",
@@ -6210,6 +7056,9 @@
         },
         "Nobelisk": {
             "in-game-name": "Nobelisk",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "BlackPowder",
@@ -6229,6 +7078,9 @@
         },
         "NobeliskDetonator": {
             "in-game-name": "Nobelisk Detonator",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "ObjectScanner",
@@ -6252,6 +7104,9 @@
         },
         "SmokelessPowder": {
             "in-game-name": "Smokeless Powder",
+            "hand-craftable": false,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "BlackPowder",
@@ -6271,6 +7126,9 @@
         },
         "FactoryCart": {
             "in-game-name": "Factory Cart\u2122",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "ReinforcedIronPlate",
@@ -6294,6 +7152,9 @@
         },
         "GoldenFactoryCart": {
             "in-game-name": "Golden Factory Cart\u2122",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "CateriumIngot",
@@ -6317,6 +7178,9 @@
         },
         "BiomassFromLeaves": {
             "in-game-name": "Biomass (Leaves)",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Leaves",
@@ -6332,6 +7196,9 @@
         },
         "BiomassFromWood": {
             "in-game-name": "Biomass (Wood)",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Wood",
@@ -6347,6 +7214,9 @@
         },
         "ReinforcedIronPlate": {
             "in-game-name": "Reinforced Iron Plate",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronPlate",
@@ -6366,6 +7236,9 @@
         },
         "Concrete": {
             "in-game-name": "Concrete",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Limestone",
@@ -6381,6 +7254,9 @@
         },
         "Screw": {
             "in-game-name": "Screw",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "IronRod",
@@ -6396,6 +7272,9 @@
         },
         "Cable": {
             "in-game-name": "Cable",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "Wire",
@@ -6411,6 +7290,9 @@
         },
         "Wire": {
             "in-game-name": "Wire",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CopperIngot",
@@ -6426,6 +7308,9 @@
         },
         "CopperIngot": {
             "in-game-name": "Copper Ingot",
+            "hand-craftable": true,
+            "workshop-craftable": false,
+            "machine-craftable": true,
             "inputs": [
                 {
                     "item": "CopperOre",
@@ -6441,6 +7326,9 @@
         },
         "PortableMiner": {
             "in-game-name": "Portable Miner",
+            "hand-craftable": false,
+            "workshop-craftable": true,
+            "machine-craftable": false,
             "inputs": [
                 {
                     "item": "IronPlate",
