@@ -2,13 +2,18 @@ import json
 
 t: str = "    "
 
-with open("ficsit_resources/data.json", "r") as f:
+with open("data.json", "r") as f:
     data: dict[str, dict] = json.load(f)
 
 with open("ficsit_resources/items.py", "w") as f:
     f.write("from ficsit_resources.types import Item\n\nclass Items:\n")
     for item_id, item in data["items"].items():
         f.write(f"{t}{item_id} = Item(\"{item['in-game-name']}\")\n")
+    f.write(f"\n{t}__all = [\n")
+    for item_id in data["items"]:
+        f.write(f"{t * 2}{item_id},\n")
+    f.write(f"{t}]\n\n")
+    f.write(f"{t}@staticmethod\n{t}def all() -> list[Item]:\n{t * 2}return Items.__all\n")
 
 with open("ficsit_resources/recipes.py", "w") as f:
     f.write("from ficsit_resources.types import Recipe, Rate\n")
@@ -20,6 +25,11 @@ with open("ficsit_resources/recipes.py", "w") as f:
         f.write(f"{t * 2}\"{recipe['in-game-name']}\",\n")
         f.write(f"{t * 2}[{inputs}],\n")
         f.write(f"{t * 2}[{outputs}],\n{t})\n")
+    f.write(f"\n{t}__all = [\n")
+    for recipe_id in data["recipes"]:
+        f.write(f"{t * 2}{recipe_id},\n")
+    f.write(f"{t}]\n\n")
+    f.write(f"{t}@staticmethod\n{t}def all() -> list[Recipe]:\n{t * 2}return Recipes.__all\n")
 
 with open("ficsit_resources/__init__.py", "w") as f:
     f.write("from ficsit_resources.types import Item, Recipe, Rate\n")
